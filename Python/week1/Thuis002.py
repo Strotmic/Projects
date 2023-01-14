@@ -1,0 +1,5 @@
+print('*** welkom bij het kassasysteem ***')
+broek = int(input('Hoeveel broeken werden er gekocht? '))
+tshirt = int(input('Hoeveel T-shirts werden er gekocht? '))
+vest = int(input('Hoeveel vesten werden er gekocht? '))
+print(f'Totaal te betalen: \n{broek* 70.5+20.89*tshirt+100.3*vest}')

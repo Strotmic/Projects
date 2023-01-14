@@ -1,0 +1,44 @@
+[
+  {
+    "Auto-id": "how100",
+    "Merk": "Mini",
+    "Bouwjaar": 2016,
+    "Km-stand": 2000,
+    "Max-plaatsen": 4
+  },
+  {
+    "Auto-id": "how101",
+    "Merk": "VW",
+    "Bouwjaar": 2019,
+    "Km-stand": 0,
+    "Max-plaatsen": 6
+  },
+  {
+    "Auto-id": "how102",
+    "Merk": "VW",
+    "Bouwjaar": 2017,
+    "Km-stand": 134,
+    "Max-plaatsen": 4
+  },
+  {
+    "Auto-id": "how103",
+    "Merk": "Audi",
+    "Bouwjaar": 2018,
+    "Km-stand": 4213,
+    "Max-plaatsen": 5
+  },
+  {
+    "Auto-id": "how104",
+    "Merk": "Volvo",
+    "Bouwjaar": 2012,
+    "Km-stand": "slechte data",
+    "Max-plaatsen": 6
+  },
+  {
+    "Auto-id": "how105",
+    "Merk": "Tesla",
+    "Bouwjaar": 2018,
+    "Km-stand": 4,
+    "Max-plaatsen": 5
+  }
+]
