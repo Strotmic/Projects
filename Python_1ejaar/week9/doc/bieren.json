@@ -1,0 +1,5070 @@
+[
+    {
+      "Nr": 710,
+      "Naam": "1664 Kronenbourg",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 747,
+      "Naam": "Aardmonnik",
+      "Brouwerij": "De Struise Brouwers",
+      "Kleur": "Bruin",
+      "alcohol": 8
+    },
+    {
+      "Nr": 1,
+      "Naam": "Aarschotse Bruine",
+      "Brouwerij": "De Biertoren",
+      "Kleur": "Bruin",
+      "alcohol": 4
+    },
+    {
+      "Nr": 737,
+      "Naam": "Abbaye d'Orval",
+      "Brouwerij": "Brasserie d'Orval",
+      "Kleur": "Géén gegevens",
+      "alcohol": 3.5
+    },
+    {
+      "Nr": 2,
+      "Naam": "Abbaye de Bonne-Esperance",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "Amber",
+      "alcohol": 8
+    },
+    {
+      "Nr": 3,
+      "Naam": "Abbaye de Brogne donker",
+      "Brouwerij": "De Smedt",
+      "Kleur": "",
+      "alcohol": 6.7
+    },
+    {
+      "Nr": 4,
+      "Naam": "Abbaye de Cambron",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "Amber",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 5,
+      "Naam": "Abbaye De Gembloux",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "Amber",
+      "alcohol": 8
+    },
+    {
+      "Nr": 7,
+      "Naam": "Abbaye de la Moinette brune",
+      "Brouwerij": "Dupont",
+      "Kleur": "",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 6,
+      "Naam": "Abbaye de la Moinette brunee",
+      "Brouwerij": "Dupont",
+      "Kleur": "",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 8,
+      "Naam": "Abbaye de la Moinette-Special Nouvel An",
+      "Brouwerij": "Dupont",
+      "Kleur": "Amber",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 9,
+      "Naam": "Abbaye des Rocs",
+      "Brouwerij": "Eloir-Bertiau",
+      "Kleur": "Amber",
+      "alcohol": 9.3
+    },
+    {
+      "Nr": 10,
+      "Naam": "Abbaye des Rocs Special",
+      "Brouwerij": "Eloir-Bertiau",
+      "Kleur": "",
+      "alcohol": 9.5
+    },
+    {
+      "Nr": 12,
+      "Naam": "Abdij van Leffe bruin",
+      "Brouwerij": "St. Guibert",
+      "Kleur": "Bruin",
+      "alcohol": 6.3
+    },
+    {
+      "Nr": 11,
+      "Naam": "Abdij van Leffe brune",
+      "Brouwerij": "St. Guibert",
+      "Kleur": "Amber",
+      "alcohol": 6.3
+    },
+    {
+      "Nr": 13,
+      "Naam": "Abdij van Leffe radieuse",
+      "Brouwerij": "St. Guibert",
+      "Kleur": "Donkerbruin",
+      "alcohol": 8.6
+    },
+    {
+      "Nr": 14,
+      "Naam": "Abdij van Leffe trippel",
+      "Brouwerij": "St. Guibert",
+      "Kleur": "Blond",
+      "alcohol": 7.1
+    },
+    {
+      "Nr": 15,
+      "Naam": "Abdij van Leffe vieille cuvée",
+      "Brouwerij": "St. Guibert",
+      "Kleur": "Bruin",
+      "alcohol": 7.8
+    },
+    {
+      "Nr": 679,
+      "Naam": "Abdij van t'Park",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Bruin",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 16,
+      "Naam": "Abdijbier Affligem blonde",
+      "Brouwerij": "De Smedt",
+      "Kleur": "Blond",
+      "alcohol": 6.9
+    },
+    {
+      "Nr": 17,
+      "Naam": "Abdijbier Affligem foncée",
+      "Brouwerij": "De Smedt",
+      "Kleur": "Donker",
+      "alcohol": 6.9
+    },
+    {
+      "Nr": 18,
+      "Naam": "Abdijbier Affligem trippel",
+      "Brouwerij": "De Smedt",
+      "Kleur": "Amber",
+      "alcohol": 9.6
+    },
+    {
+      "Nr": 19,
+      "Naam": "Abdijbier Sint-Idesbald brune",
+      "Brouwerij": "Amberd",
+      "Kleur": "Bruin",
+      "alcohol": 6.3
+    },
+    {
+      "Nr": 20,
+      "Naam": "Abdijbier Sint-Idesbald pale",
+      "Brouwerij": "Amberd",
+      "Kleur": "Blond",
+      "alcohol": 6.3
+    },
+    {
+      "Nr": 21,
+      "Naam": "Abdijbier Sint-Idesbald trippel",
+      "Brouwerij": "Amberd",
+      "Kleur": "Bruin",
+      "alcohol": 8
+    },
+    {
+      "Nr": 22,
+      "Naam": "Adler",
+      "Brouwerij": "Haacht",
+      "Kleur": "Goudgeel",
+      "alcohol": 6.7
+    },
+    {
+      "Nr": 23,
+      "Naam": "Aerts 1900",
+      "Brouwerij": "Palm",
+      "Kleur": "Amber-roodachtig",
+      "alcohol": 6
+    },
+    {
+      "Nr": 24,
+      "Naam": "Affligem rood",
+      "Brouwerij": "De Smedt",
+      "Kleur": "",
+      "alcohol": 6.7
+    },
+    {
+      "Nr": 25,
+      "Naam": "Akila Export",
+      "Brouwerij": "Louwaege",
+      "Kleur": "",
+      "alcohol": 4.6
+    },
+    {
+      "Nr": 26,
+      "Naam": "Akila Pils",
+      "Brouwerij": "Louwaege",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 27,
+      "Naam": "Alexander",
+      "Brouwerij": "Rodenbach",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 28,
+      "Naam": "Alfri",
+      "Brouwerij": "Roman",
+      "Kleur": "",
+      "alcohol": 0.5
+    },
+    {
+      "Nr": 29,
+      "Naam": "Ambiorix",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 30,
+      "Naam": "Anglo pils",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 31,
+      "Naam": "Antiek",
+      "Brouwerij": "Isebaert",
+      "Kleur": "Amber",
+      "alcohol": 7.8
+    },
+    {
+      "Nr": 32,
+      "Naam": "Antiek",
+      "Brouwerij": "Vieille Villers",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 33,
+      "Naam": "Antigoon",
+      "Brouwerij": "Isebaert",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 34,
+      "Naam": "Arabier",
+      "Brouwerij": "De Dolle Brouwers",
+      "Kleur": "Blond foncé",
+      "alcohol": 8
+    },
+    {
+      "Nr": 35,
+      "Naam": "Ardennaise",
+      "Brouwerij": "Poncelet",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 36,
+      "Naam": "Artevelde",
+      "Brouwerij": "Huyghe",
+      "Kleur": "Amber",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 37,
+      "Naam": "Artevelde Grand Cru",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": 6.9
+    },
+    {
+      "Nr": 38,
+      "Naam": "Augustijn",
+      "Brouwerij": "Bios",
+      "Kleur": "Amber",
+      "alcohol": 8
+    },
+    {
+      "Nr": 39,
+      "Naam": "Averechtsen Saison",
+      "Brouwerij": "Strubbe",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 40,
+      "Naam": "Bacchus",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "Donkerbruin",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 702,
+      "Naam": "Barbar winter bock",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "Bruin",
+      "alcohol": 8
+    },
+    {
+      "Nr": 41,
+      "Naam": "Bass-Old Barley Stout",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Donker",
+      "alcohol": 5.4
+    },
+    {
+      "Nr": 42,
+      "Naam": "Bass-Pale Ale",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Goudgeel",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 43,
+      "Naam": "Bavaro",
+      "Brouwerij": "Haacht",
+      "Kleur": "",
+      "alcohol": 3.4
+    },
+    {
+      "Nr": 44,
+      "Naam": "Bel Pils",
+      "Brouwerij": "Moortgat",
+      "Kleur": "",
+      "alcohol": 5.3
+    },
+    {
+      "Nr": 45,
+      "Naam": "Bergenbier",
+      "Brouwerij": "Artois",
+      "Kleur": "",
+      "alcohol": 5.7
+    },
+    {
+      "Nr": 46,
+      "Naam": "Bergenbier",
+      "Brouwerij": "Dendria",
+      "Kleur": "Blond",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 47,
+      "Naam": "Beyerd",
+      "Brouwerij": "Sterkens",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 48,
+      "Naam": "Bier v/h Kasteel Ramegnies-Chin",
+      "Brouwerij": "Facon",
+      "Kleur": "",
+      "alcohol": 12
+    },
+    {
+      "Nr": 49,
+      "Naam": "BiŠre Darbyste",
+      "Brouwerij": "Brasserie de Blaugies",
+      "Kleur": "Witbier",
+      "alcohol": 5.8
+    },
+    {
+      "Nr": 50,
+      "Naam": "Biere de l'Abbaye d'Aulne 10ø",
+      "Brouwerij": "De Smedt",
+      "Kleur": "Donker",
+      "alcohol": 10
+    },
+    {
+      "Nr": 51,
+      "Naam": "BiŠre de l'Abbaye d'Aulne 6ø",
+      "Brouwerij": "De Smedt",
+      "Kleur": "Goudgeel",
+      "alcohol": 6
+    },
+    {
+      "Nr": 52,
+      "Naam": "Biere de l'Abbaye d'Aulne 8ø",
+      "Brouwerij": "De Smedt",
+      "Kleur": "Donker",
+      "alcohol": 8
+    },
+    {
+      "Nr": 53,
+      "Naam": "BiŠre de Pƒques",
+      "Brouwerij": "La Binchoise",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 708,
+      "Naam": "Binchoise BiŠre des ours",
+      "Brouwerij": "La Binchoise",
+      "Kleur": "Blond",
+      "alcohol": 8.4
+    },
+    {
+      "Nr": 704,
+      "Naam": "Binchoise Blonde Tradition",
+      "Brouwerij": "La Binchoise",
+      "Kleur": "Witbier",
+      "alcohol": 6.2
+    },
+    {
+      "Nr": 705,
+      "Naam": "Binchoise Brune Tradition",
+      "Brouwerij": "La Binchoise",
+      "Kleur": "Bruin",
+      "alcohol": 8.2
+    },
+    {
+      "Nr": 707,
+      "Naam": "Binchoise Flora",
+      "Brouwerij": "La Binchoise",
+      "Kleur": "Amber",
+      "alcohol": 7
+    },
+    {
+      "Nr": 706,
+      "Naam": "Binchoise Rose des Remparts",
+      "Brouwerij": "La Binchoise",
+      "Kleur": "Rood",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 703,
+      "Naam": "Binchoise Spéciale No‰l",
+      "Brouwerij": "La Binchoise",
+      "Kleur": "Amber",
+      "alcohol": 9
+    },
+    {
+      "Nr": 54,
+      "Naam": "Bink",
+      "Brouwerij": "Kerkom",
+      "Kleur": "",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 55,
+      "Naam": "Bios Vlaamse Bourgogne",
+      "Brouwerij": "Bios",
+      "Kleur": "Donker",
+      "alcohol": 5.8
+    },
+    {
+      "Nr": 56,
+      "Naam": "Biss",
+      "Brouwerij": "Brasserie a Vapeur",
+      "Kleur": "Bruin",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 683,
+      "Naam": "Blanche de Charleroi",
+      "Brouwerij": "Val de Sambre",
+      "Kleur": "Witbier",
+      "alcohol": 5
+    },
+    {
+      "Nr": 57,
+      "Naam": "Blanche de Namur",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 58,
+      "Naam": "Blanche des Honelles",
+      "Brouwerij": "Eloir-Bertiau",
+      "Kleur": "",
+      "alcohol": 6.2
+    },
+    {
+      "Nr": 59,
+      "Naam": "Blanche des Neiges",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 60,
+      "Naam": "Bleek",
+      "Brouwerij": "Riva",
+      "Kleur": "",
+      "alcohol": 1.5
+    },
+    {
+      "Nr": 61,
+      "Naam": "Bleek",
+      "Brouwerij": "Roman",
+      "Kleur": "",
+      "alcohol": 1.2
+    },
+    {
+      "Nr": 62,
+      "Naam": "Block Export",
+      "Brouwerij": "De Block-Joostens",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 63,
+      "Naam": "Block Pils",
+      "Brouwerij": "De Block-Joostens",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 64,
+      "Naam": "Blond",
+      "Brouwerij": "De Biertoren",
+      "Kleur": "Bruin",
+      "alcohol": 1
+    },
+    {
+      "Nr": 65,
+      "Naam": "Blond",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "",
+      "alcohol": 1.8
+    },
+    {
+      "Nr": 66,
+      "Naam": "Blond",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 67,
+      "Naam": "Blond",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "",
+      "alcohol": 1.5
+    },
+    {
+      "Nr": 68,
+      "Naam": "Blonde",
+      "Brouwerij": "Devaux",
+      "Kleur": "",
+      "alcohol": 0.8
+    },
+    {
+      "Nr": 69,
+      "Naam": "Blonde",
+      "Brouwerij": "Haacht",
+      "Kleur": "",
+      "alcohol": 1.4
+    },
+    {
+      "Nr": 70,
+      "Naam": "Blonde Alken",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 1.4
+    },
+    {
+      "Nr": 71,
+      "Naam": "Bocholter Kwikpils Premiumbier",
+      "Brouwerij": "Martens",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 72,
+      "Naam": "Bocholter pils",
+      "Brouwerij": "Martens",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 73,
+      "Naam": "Bock pils",
+      "Brouwerij": "Palm",
+      "Kleur": "Bruin",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 74,
+      "Naam": "Bockor export",
+      "Brouwerij": "Bockor (Vanderghinste)",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 75,
+      "Naam": "Bockor pils",
+      "Brouwerij": "Bockor (Vanderghinste)",
+      "Kleur": "Blond",
+      "alcohol": 5.4
+    },
+    {
+      "Nr": 76,
+      "Naam": "Bokkereyer",
+      "Brouwerij": "Sint-Jozef",
+      "Kleur": "Donkerbruin",
+      "alcohol": 6
+    },
+    {
+      "Nr": 77,
+      "Naam": "Bokrijks Kruikenbier",
+      "Brouwerij": "Sterkens",
+      "Kleur": "",
+      "alcohol": 7.2
+    },
+    {
+      "Nr": 78,
+      "Naam": "Bornem Dubbel",
+      "Brouwerij": "Bios",
+      "Kleur": "Donker",
+      "alcohol": 8
+    },
+    {
+      "Nr": 79,
+      "Naam": "Bornem Trippel",
+      "Brouwerij": "Bios",
+      "Kleur": "Helder",
+      "alcohol": 9
+    },
+    {
+      "Nr": 80,
+      "Naam": "Bosbier",
+      "Brouwerij": "Sint-Jozef",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 81,
+      "Naam": "Boskeun",
+      "Brouwerij": "De Dolle Brouwers",
+      "Kleur": "Amber",
+      "alcohol": 8
+    },
+    {
+      "Nr": 82,
+      "Naam": "Bourgogne des Flandres",
+      "Brouwerij": "Timmermans",
+      "Kleur": "Bruin",
+      "alcohol": 5
+    },
+    {
+      "Nr": 83,
+      "Naam": "Bourgogne des Flandres",
+      "Brouwerij": "Verhaeghe",
+      "Kleur": "Donker",
+      "alcohol": 6.2
+    },
+    {
+      "Nr": 84,
+      "Naam": "Brewmaster Pale Ale",
+      "Brouwerij": "Martinas",
+      "Kleur": "",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 85,
+      "Naam": "Brigand",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "Amber",
+      "alcohol": 9
+    },
+    {
+      "Nr": 86,
+      "Naam": "Brug-ale Belge",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "Amber",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 87,
+      "Naam": "Brugs tarwebier",
+      "Brouwerij": "De Gouden Boom",
+      "Kleur": "Witbier",
+      "alcohol": 5.4
+    },
+    {
+      "Nr": 88,
+      "Naam": "Brugse Tripel",
+      "Brouwerij": "De Gouden Boom",
+      "Kleur": "",
+      "alcohol": 9.5
+    },
+    {
+      "Nr": 711,
+      "Naam": "Brugse Zot",
+      "Brouwerij": "De halve maan",
+      "Kleur": "Blond",
+      "alcohol": 6
+    },
+    {
+      "Nr": 89,
+      "Naam": "Bruin",
+      "Brouwerij": "Callewaert",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 90,
+      "Naam": "Bruin",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "",
+      "alcohol": 1.8
+    },
+    {
+      "Nr": 91,
+      "Naam": "Bruin",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 92,
+      "Naam": "Bruin",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "",
+      "alcohol": 1.5
+    },
+    {
+      "Nr": 93,
+      "Naam": "Bruin",
+      "Brouwerij": "Riva",
+      "Kleur": "",
+      "alcohol": 1.5
+    },
+    {
+      "Nr": 94,
+      "Naam": "Bruin",
+      "Brouwerij": "Roman",
+      "Kleur": "",
+      "alcohol": 1.2
+    },
+    {
+      "Nr": 95,
+      "Naam": "Bruin",
+      "Brouwerij": "Sint-Jozef",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 96,
+      "Naam": "Brune",
+      "Brouwerij": "Devaux",
+      "Kleur": "",
+      "alcohol": 0.8
+    },
+    {
+      "Nr": 97,
+      "Naam": "Brunehaut 8",
+      "Brouwerij": "Allard & Groetembril",
+      "Kleur": "Bruin",
+      "alcohol": 8
+    },
+    {
+      "Nr": 98,
+      "Naam": "Bruno",
+      "Brouwerij": "De Biertoren",
+      "Kleur": "Bruin",
+      "alcohol": 0.8
+    },
+    {
+      "Nr": 99,
+      "Naam": "Bruocsella Grand Cru Lambiek",
+      "Brouwerij": "Cantillon",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 100,
+      "Naam": "Buffalo",
+      "Brouwerij": "Van Den Bossche",
+      "Kleur": "Donker",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 101,
+      "Naam": "Bugel Doppelbock",
+      "Brouwerij": "Domus",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 102,
+      "Naam": "Bugg's",
+      "Brouwerij": "Bosteels",
+      "Kleur": "",
+      "alcohol": 2.6
+    },
+    {
+      "Nr": 103,
+      "Naam": "Bush Beer",
+      "Brouwerij": "Dubuisson",
+      "Kleur": "Amber",
+      "alcohol": 9.8
+    },
+    {
+      "Nr": 104,
+      "Naam": "Cambrinus",
+      "Brouwerij": "Verhaeghe",
+      "Kleur": "Amber",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 105,
+      "Naam": "Campbell s Christmas",
+      "Brouwerij": "Martinas",
+      "Kleur": "",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 106,
+      "Naam": "Campbell s Scotch",
+      "Brouwerij": "Martinas",
+      "Kleur": "",
+      "alcohol": 6.8
+    },
+    {
+      "Nr": 107,
+      "Naam": "Campus",
+      "Brouwerij": "De Biertoren",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 108,
+      "Naam": "Campus Gold",
+      "Brouwerij": "De Biertoren",
+      "Kleur": "",
+      "alcohol": 6
+    },
+    {
+      "Nr": 109,
+      "Naam": "Cassis",
+      "Brouwerij": "Lindemans",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 110,
+      "Naam": "Cassis bier",
+      "Brouwerij": "Timmermans",
+      "Kleur": "",
+      "alcohol": 4
+    },
+    {
+      "Nr": 739,
+      "Naam": "Caulier blonde",
+      "Brouwerij": "Caulier Developpement SA",
+      "Kleur": "Blond",
+      "alcohol": 6.8
+    },
+    {
+      "Nr": 740,
+      "Naam": "Caulier Brune",
+      "Brouwerij": "Caulier Developpement SA",
+      "Kleur": "Bruin",
+      "alcohol": 6.8
+    },
+    {
+      "Nr": 741,
+      "Naam": "Caulier Extra",
+      "Brouwerij": "Caulier Developpement SA",
+      "Kleur": "Blond",
+      "alcohol": 4
+    },
+    {
+      "Nr": 111,
+      "Naam": "Caves",
+      "Brouwerij": "Verhaeghe",
+      "Kleur": "Amber",
+      "alcohol": 5.4
+    },
+    {
+      "Nr": 112,
+      "Naam": "Cervesia",
+      "Brouwerij": "Dupont",
+      "Kleur": "",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 113,
+      "Naam": "Cezarken",
+      "Brouwerij": "Crombé",
+      "Kleur": "",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 114,
+      "Naam": "Chapeau Faro",
+      "Brouwerij": "De Troch",
+      "Kleur": "",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 115,
+      "Naam": "Chapeau Framboise",
+      "Brouwerij": "De Troch",
+      "Kleur": "",
+      "alcohol": 3
+    },
+    {
+      "Nr": 116,
+      "Naam": "Chapeau Mirabelle",
+      "Brouwerij": "De Troch",
+      "Kleur": "",
+      "alcohol": 3
+    },
+    {
+      "Nr": 117,
+      "Naam": "Chapeau Pˆche",
+      "Brouwerij": "De Troch",
+      "Kleur": "Blond",
+      "alcohol": 3.5
+    },
+    {
+      "Nr": 118,
+      "Naam": "Chapeau Tropical",
+      "Brouwerij": "De Troch",
+      "Kleur": "",
+      "alcohol": 3
+    },
+    {
+      "Nr": 119,
+      "Naam": "Charles Quint",
+      "Brouwerij": "Haacht",
+      "Kleur": "Donker",
+      "alcohol": 6.3
+    },
+    {
+      "Nr": 120,
+      "Naam": "Chimay-Bouchon Liege",
+      "Brouwerij": "Abbaye de Scourmont",
+      "Kleur": "Amber",
+      "alcohol": 7
+    },
+    {
+      "Nr": 121,
+      "Naam": "Chimay-Capsule Blanche",
+      "Brouwerij": "La Trappe (schaapskooi)",
+      "Kleur": "Helder",
+      "alcohol": 8
+    },
+    {
+      "Nr": 122,
+      "Naam": "Chimay-Capsule Rouge",
+      "Brouwerij": "Abbaye de Scourmont",
+      "Kleur": "Amber",
+      "alcohol": 7
+    },
+    {
+      "Nr": 123,
+      "Naam": "Christmas",
+      "Brouwerij": "Riva",
+      "Kleur": "Donker",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 124,
+      "Naam": "Christmas beer",
+      "Brouwerij": "Crombé",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 125,
+      "Naam": "Christmas Bell",
+      "Brouwerij": "Roman",
+      "Kleur": "Bruin",
+      "alcohol": 7.2
+    },
+    {
+      "Nr": 126,
+      "Naam": "Christmas De Ryck",
+      "Brouwerij": "De Ryck",
+      "Kleur": "Amber",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 127,
+      "Naam": "Christmas De Smedt",
+      "Brouwerij": "De Smedt",
+      "Kleur": "",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 128,
+      "Naam": "Christmas/Old Musketeer",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "Donker",
+      "alcohol": 8
+    },
+    {
+      "Nr": 129,
+      "Naam": "Ciney Blond",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 7
+    },
+    {
+      "Nr": 130,
+      "Naam": "Ciney Bruin",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Bruin",
+      "alcohol": 7
+    },
+    {
+      "Nr": 131,
+      "Naam": "Ciney Speciaal",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 132,
+      "Naam": "Cleopaterken",
+      "Brouwerij": "Crombé",
+      "Kleur": "",
+      "alcohol": 5.6
+    },
+    {
+      "Nr": 709,
+      "Naam": "Clipper's Barley Pale Ale",
+      "Brouwerij": "Isebaert",
+      "Kleur": "Goudgeel",
+      "alcohol": "?"
+    },
+    {
+      "Nr": 133,
+      "Naam": "Contra Pils",
+      "Brouwerij": "Contreras",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 134,
+      "Naam": "Cornel Bier",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "Amber",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 135,
+      "Naam": "Corsendonck Agnus",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Blond",
+      "alcohol": 8.1
+    },
+    {
+      "Nr": 136,
+      "Naam": "Corsendonck Agnus",
+      "Brouwerij": "Corsendonck",
+      "Kleur": "Blond",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 137,
+      "Naam": "Corsendonck Pater",
+      "Brouwerij": "Bios",
+      "Kleur": "",
+      "alcohol": 6.4
+    },
+    {
+      "Nr": 138,
+      "Naam": "Corsendonck Pater",
+      "Brouwerij": "Corsendonck",
+      "Kleur": "Donkerbruin",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 139,
+      "Naam": "Couckelaerschen Doedel",
+      "Brouwerij": "Strubbe",
+      "Kleur": "",
+      "alcohol": 6
+    },
+    {
+      "Nr": 140,
+      "Naam": "Courtois",
+      "Brouwerij": "De Biertoren",
+      "Kleur": "",
+      "alcohol": 1.2
+    },
+    {
+      "Nr": 141,
+      "Naam": "Cristal Alken",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 142,
+      "Naam": "Crom-Pils",
+      "Brouwerij": "Crombé",
+      "Kleur": "Blond",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 143,
+      "Naam": "Cupido",
+      "Brouwerij": "Bosteels",
+      "Kleur": "Amber",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 144,
+      "Naam": "Cuvée Bosquétia",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "",
+      "alcohol": 8.8
+    },
+    {
+      "Nr": 145,
+      "Naam": "Cuvée De L Ermitage",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Amber",
+      "alcohol": 7.8
+    },
+    {
+      "Nr": 147,
+      "Naam": "Cuvée de la Thyria brune",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 146,
+      "Naam": "Cuvée de la Thyria brunee",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 149,
+      "Naam": "Cuvée de Namur brune",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 148,
+      "Naam": "Cuvée de Namur brunee",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 738,
+      "Naam": "Cuvée des Trolls",
+      "Brouwerij": "Dubuisson",
+      "Kleur": "Blond",
+      "alcohol": 7
+    },
+    {
+      "Nr": 150,
+      "Naam": "Cuvée St. Amand",
+      "Brouwerij": "Bavik",
+      "Kleur": "Donkergold",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 151,
+      "Naam": "De Brouwers van de Dijle",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Bruin",
+      "alcohol": 5
+    },
+    {
+      "Nr": 152,
+      "Naam": "De Koninck",
+      "Brouwerij": "De Koninck",
+      "Kleur": "Bruin",
+      "alcohol": 5
+    },
+    {
+      "Nr": 153,
+      "Naam": "De Verboden Vrucht",
+      "Brouwerij": "De Kluis",
+      "Kleur": "Donkerrood",
+      "alcohol": 8
+    },
+    {
+      "Nr": 154,
+      "Naam": "Deca",
+      "Brouwerij": "Isebaert",
+      "Kleur": "Blond",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 155,
+      "Naam": "Delbeccha",
+      "Brouwerij": "Delbeccha",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 156,
+      "Naam": "Delirium Tremens",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": 9
+    },
+    {
+      "Nr": 678,
+      "Naam": "Den Oostendsche Baron",
+      "Brouwerij": "Proefbrouwerij",
+      "Kleur": "Blond",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 157,
+      "Naam": "Dentergems Witbier",
+      "Brouwerij": "Riva",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 158,
+      "Naam": "Deugniet",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Blond",
+      "alcohol": 7.3
+    },
+    {
+      "Nr": 159,
+      "Naam": "Dikke Mathilde",
+      "Brouwerij": "Strubbe",
+      "Kleur": "",
+      "alcohol": 6
+    },
+    {
+      "Nr": 160,
+      "Naam": "Dikkenek",
+      "Brouwerij": "De Smedt",
+      "Kleur": "",
+      "alcohol": 6
+    },
+    {
+      "Nr": 161,
+      "Naam": "Dinner Blond",
+      "Brouwerij": "Bavik",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 162,
+      "Naam": "Dinner Faro",
+      "Brouwerij": "Bavik",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 163,
+      "Naam": "Dobbel Faro",
+      "Brouwerij": "Vander Linden",
+      "Kleur": "Donkerbruin",
+      "alcohol": 6
+    },
+    {
+      "Nr": 164,
+      "Naam": "Dobbelen Bruinen",
+      "Brouwerij": "Roman",
+      "Kleur": "Bruin",
+      "alcohol": 7.2
+    },
+    {
+      "Nr": 165,
+      "Naam": "Dobbelken",
+      "Brouwerij": "Strubbe",
+      "Kleur": "",
+      "alcohol": 4.3
+    },
+    {
+      "Nr": 166,
+      "Naam": "Domein Bleek",
+      "Brouwerij": "Bios",
+      "Kleur": "Blond",
+      "alcohol": ""
+    },
+    {
+      "Nr": 167,
+      "Naam": "Domein Donker",
+      "Brouwerij": "Bios",
+      "Kleur": "Donkerbruin",
+      "alcohol": ""
+    },
+    {
+      "Nr": 168,
+      "Naam": "Domus",
+      "Brouwerij": "Domus",
+      "Kleur": "",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 169,
+      "Naam": "Dorppils",
+      "Brouwerij": "R. van Roy en Cie.",
+      "Kleur": "Geel",
+      "alcohol": 4
+    },
+    {
+      "Nr": 170,
+      "Naam": "Dorpsbier",
+      "Brouwerij": "R. van Roy en Cie.",
+      "Kleur": "Lichtbruin",
+      "alcohol": 2
+    },
+    {
+      "Nr": 171,
+      "Naam": "Dort Silbrau",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "Blond",
+      "alcohol": 5.7
+    },
+    {
+      "Nr": 172,
+      "Naam": "Double Blonde",
+      "Brouwerij": "Brasserie Gigi",
+      "Kleur": "",
+      "alcohol": 1.2
+    },
+    {
+      "Nr": 173,
+      "Naam": "Double Engien Spéciale",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "Amber",
+      "alcohol": 8
+    },
+    {
+      "Nr": 174,
+      "Naam": "Double Floreffe",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "Donker",
+      "alcohol": 6
+    },
+    {
+      "Nr": 175,
+      "Naam": "Doublette",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "Amber",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 176,
+      "Naam": "Drink Center Sharpe",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": 4.6
+    },
+    {
+      "Nr": 177,
+      "Naam": "Dubbel Blond",
+      "Brouwerij": "Bockor (Vanderghinste)",
+      "Kleur": "",
+      "alcohol": 1
+    },
+    {
+      "Nr": 178,
+      "Naam": "Dubbel Blond",
+      "Brouwerij": "Louwaege",
+      "Kleur": "",
+      "alcohol": 1.4
+    },
+    {
+      "Nr": 179,
+      "Naam": "Dubbel Domus Honingbier",
+      "Brouwerij": "Domus",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 180,
+      "Naam": "Dubbel Gersten",
+      "Brouwerij": "De Es",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 181,
+      "Naam": "Dubbel Palm",
+      "Brouwerij": "Palm",
+      "Kleur": "Donker amber",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 182,
+      "Naam": "Dubbel Wit",
+      "Brouwerij": "De Kroon",
+      "Kleur": "Witbier",
+      "alcohol": 5
+    },
+    {
+      "Nr": 183,
+      "Naam": "Duivel",
+      "Brouwerij": "Vander Linden",
+      "Kleur": "Donkerbruin",
+      "alcohol": 6
+    },
+    {
+      "Nr": 184,
+      "Naam": "Duivelsbier",
+      "Brouwerij": "Vander Linden",
+      "Kleur": "",
+      "alcohol": 6
+    },
+    {
+      "Nr": 185,
+      "Naam": "Duo",
+      "Brouwerij": "De Koninck",
+      "Kleur": "",
+      "alcohol": 2.5
+    },
+    {
+      "Nr": 186,
+      "Naam": "Dupont Pils",
+      "Brouwerij": "Dupont",
+      "Kleur": "",
+      "alcohol": 6.2
+    },
+    {
+      "Nr": 187,
+      "Naam": "Duvel 7",
+      "Brouwerij": "Moortgat",
+      "Kleur": "Blond",
+      "alcohol": 7
+    },
+    {
+      "Nr": 188,
+      "Naam": "Duvel 8",
+      "Brouwerij": "Moortgat",
+      "Kleur": "Blond",
+      "alcohol": 8
+    },
+    {
+      "Nr": 189,
+      "Naam": "Echte Kriek",
+      "Brouwerij": "Verhaeghe",
+      "Kleur": "Roodachtig",
+      "alcohol": 6.2
+    },
+    {
+      "Nr": 190,
+      "Naam": "Edel Brau",
+      "Brouwerij": "Strubbe",
+      "Kleur": "",
+      "alcohol": 0.3
+    },
+    {
+      "Nr": 191,
+      "Naam": "Egmont Zottegemse Tripel",
+      "Brouwerij": "Crombé",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 192,
+      "Naam": "Elckerlijc",
+      "Brouwerij": "Callewaert",
+      "Kleur": "Bruin",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 193,
+      "Naam": "Ename Dubbel",
+      "Brouwerij": "Roman",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 194,
+      "Naam": "Ename Tripel",
+      "Brouwerij": "Roman",
+      "Kleur": "",
+      "alcohol": 9
+    },
+    {
+      "Nr": 195,
+      "Naam": "Esenaar",
+      "Brouwerij": "De Dolle Brouwers",
+      "Kleur": "",
+      "alcohol": 6
+    },
+    {
+      "Nr": 196,
+      "Naam": "Etoile",
+      "Brouwerij": "Dupont",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 197,
+      "Naam": "Eupener Caramel",
+      "Brouwerij": "Eupener Bierbrauerei",
+      "Kleur": "",
+      "alcohol": 1.5
+    },
+    {
+      "Nr": 198,
+      "Naam": "Eupener Export",
+      "Brouwerij": "Eupener Bierbrauerie",
+      "Kleur": "Blond",
+      "alcohol": 3.5
+    },
+    {
+      "Nr": 199,
+      "Naam": "Eupener Extra Light",
+      "Brouwerij": "Eupener Bierbrauerei",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 200,
+      "Naam": "Eupener Kapuziner Klosterbier",
+      "Brouwerij": "Eupener Bierbrauerie",
+      "Kleur": "Donker",
+      "alcohol": 5
+    },
+    {
+      "Nr": 201,
+      "Naam": "Eupener Pils",
+      "Brouwerij": "Eupener Bierbrauerie",
+      "Kleur": "Blond",
+      "alcohol": 4
+    },
+    {
+      "Nr": 202,
+      "Naam": "Export",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 203,
+      "Naam": "Export",
+      "Brouwerij": "Bavik",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 204,
+      "Naam": "Export",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 205,
+      "Naam": "Export",
+      "Brouwerij": "R. van Roy en Cie.",
+      "Kleur": "Goudgeel",
+      "alcohol": 4
+    },
+    {
+      "Nr": 206,
+      "Naam": "Export",
+      "Brouwerij": "Verhaeghe",
+      "Kleur": "Blond",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 207,
+      "Naam": "Export Artois",
+      "Brouwerij": "Artois",
+      "Kleur": "Blond",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 208,
+      "Naam": "Extra",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 209,
+      "Naam": "Extra Bruin",
+      "Brouwerij": "Verlinden",
+      "Kleur": "Bruin",
+      "alcohol": 0.8
+    },
+    {
+      "Nr": 210,
+      "Naam": "Extra Gueuze",
+      "Brouwerij": "Eylenbosch",
+      "Kleur": "Goudgeel",
+      "alcohol": 5
+    },
+    {
+      "Nr": 211,
+      "Naam": "Extra Pilsener",
+      "Brouwerij": "Moortgat",
+      "Kleur": "Blond",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 212,
+      "Naam": "Extra Stout",
+      "Brouwerij": "Callewaert",
+      "Kleur": "",
+      "alcohol": 4.7
+    },
+    {
+      "Nr": 213,
+      "Naam": "Extra Tafelbier",
+      "Brouwerij": "Walrave",
+      "Kleur": "",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 214,
+      "Naam": "Extra Vieille",
+      "Brouwerij": "Allard & Groetembril",
+      "Kleur": "Amber",
+      "alcohol": 6
+    },
+    {
+      "Nr": 215,
+      "Naam": "Eylenbosch Framboos Cuvée Speciale",
+      "Brouwerij": "Eylenbosch",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 216,
+      "Naam": "Facon Export",
+      "Brouwerij": "Facon",
+      "Kleur": "Blond",
+      "alcohol": 4
+    },
+    {
+      "Nr": 217,
+      "Naam": "Facon Extra Stout",
+      "Brouwerij": "Facon",
+      "Kleur": "Bruin",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 218,
+      "Naam": "Facon Pils",
+      "Brouwerij": "Facon",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 219,
+      "Naam": "Facon Scotch-Christmas",
+      "Brouwerij": "Facon",
+      "Kleur": "Amber",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 220,
+      "Naam": "Fakir",
+      "Brouwerij": "La Binchoise",
+      "Kleur": "",
+      "alcohol": 6.8
+    },
+    {
+      "Nr": 221,
+      "Naam": "Fancy low alcohol",
+      "Brouwerij": "Bavik",
+      "Kleur": "",
+      "alcohol": 1.5
+    },
+    {
+      "Nr": 222,
+      "Naam": "Fant“me",
+      "Brouwerij": "Fant“me",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 223,
+      "Naam": "Fant“me de No‰l",
+      "Brouwerij": "Fant“me",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 224,
+      "Naam": "Faro",
+      "Brouwerij": "Bockor (Vanderghinste)",
+      "Kleur": "",
+      "alcohol": 1
+    },
+    {
+      "Nr": 225,
+      "Naam": "Faro",
+      "Brouwerij": "Cantillon",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 226,
+      "Naam": "Faro",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 227,
+      "Naam": "Faro",
+      "Brouwerij": "Lindemans",
+      "Kleur": "Bruin",
+      "alcohol": 5
+    },
+    {
+      "Nr": 228,
+      "Naam": "Faro",
+      "Brouwerij": "Louwaege",
+      "Kleur": "",
+      "alcohol": 1.4
+    },
+    {
+      "Nr": 229,
+      "Naam": "Faro",
+      "Brouwerij": "R. van Roy en Cie.",
+      "Kleur": "Roodachtig-bruin",
+      "alcohol": 4.3
+    },
+    {
+      "Nr": 230,
+      "Naam": "Faro",
+      "Brouwerij": "Vander Linden",
+      "Kleur": "",
+      "alcohol": 4
+    },
+    {
+      "Nr": 231,
+      "Naam": "Faro Alken",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "",
+      "alcohol": 1.3
+    },
+    {
+      "Nr": 232,
+      "Naam": "Faro Extra",
+      "Brouwerij": "Eylenbosch",
+      "Kleur": "Bruin",
+      "alcohol": 5
+    },
+    {
+      "Nr": 233,
+      "Naam": "Faro Pertotale",
+      "Brouwerij": "Frank Boon",
+      "Kleur": "Amber",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 234,
+      "Naam": "Felix Kriek Oud Bruin",
+      "Brouwerij": "Clarysse",
+      "Kleur": "",
+      "alcohol": 6
+    },
+    {
+      "Nr": 235,
+      "Naam": "Felix Kriekbier",
+      "Brouwerij": "Clarysse",
+      "Kleur": "Roodachtig-bruin",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 236,
+      "Naam": "Felix oud bruin",
+      "Brouwerij": "Clarysse",
+      "Kleur": "Bruin",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 237,
+      "Naam": "Felix speciaal oudenaards",
+      "Brouwerij": "Clarysse",
+      "Kleur": "Bruin",
+      "alcohol": 4.6
+    },
+    {
+      "Nr": 238,
+      "Naam": "Festival Gueuze",
+      "Brouwerij": "Eylenbosch",
+      "Kleur": "Goudgeel",
+      "alcohol": 5
+    },
+    {
+      "Nr": 239,
+      "Naam": "Fitt",
+      "Brouwerij": "R. van Roy en cie",
+      "Kleur": "",
+      "alcohol": 1.5
+    },
+    {
+      "Nr": 240,
+      "Naam": "Flandrien",
+      "Brouwerij": "Louwaege",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 241,
+      "Naam": "Floreffe brunee",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 242,
+      "Naam": "Foncée",
+      "Brouwerij": "Poncelet",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 243,
+      "Naam": "Fonske",
+      "Brouwerij": "Domus",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 244,
+      "Naam": "Forst",
+      "Brouwerij": "Wielemans-Cueppens",
+      "Kleur": "Blond",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 245,
+      "Naam": "Framboise",
+      "Brouwerij": "Lindemans",
+      "Kleur": "Roze-roodachtig",
+      "alcohol": 6
+    },
+    {
+      "Nr": 246,
+      "Naam": "Framboise",
+      "Brouwerij": "Lindemans",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 247,
+      "Naam": "Framboise Belle-Vue",
+      "Brouwerij": "Belle-Vue",
+      "Kleur": "Roodachtig",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 248,
+      "Naam": "Framboise Cantillon",
+      "Brouwerij": "Cantillon",
+      "Kleur": "Roze",
+      "alcohol": 5
+    },
+    {
+      "Nr": 249,
+      "Naam": "Framboise Jacobins",
+      "Brouwerij": "Bockor (Vanderghinste)",
+      "Kleur": "",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 250,
+      "Naam": "Framboos Lambic",
+      "Brouwerij": "Timmermans",
+      "Kleur": "",
+      "alcohol": 4
+    },
+    {
+      "Nr": 251,
+      "Naam": "Frambozen F. Boon",
+      "Brouwerij": "Frank Boon",
+      "Kleur": "Roze",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 252,
+      "Naam": "Frambozenbier",
+      "Brouwerij": "De Neve",
+      "Kleur": "",
+      "alcohol": 5.3
+    },
+    {
+      "Nr": 253,
+      "Naam": "Frambozenbier",
+      "Brouwerij": "Vander Linden",
+      "Kleur": "Roodachtig",
+      "alcohol": 7
+    },
+    {
+      "Nr": 254,
+      "Naam": "Frambozenbier St. Louis",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "Lichtroodachtig",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 255,
+      "Naam": "Frater Ambrosius",
+      "Brouwerij": "Eylenbosch",
+      "Kleur": "Roze roodachtig",
+      "alcohol": 5
+    },
+    {
+      "Nr": 692,
+      "Naam": "Gauloise ambrée",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Amber",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 691,
+      "Naam": "Gauloise blonde",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Blond",
+      "alcohol": 6.3
+    },
+    {
+      "Nr": 693,
+      "Naam": "Gauloise brune",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Bruin",
+      "alcohol": 8.1
+    },
+    {
+      "Nr": 256,
+      "Naam": "Gaumaise",
+      "Brouwerij": "Brasserie Gigi",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 257,
+      "Naam": "Gersten",
+      "Brouwerij": "De Es",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 258,
+      "Naam": "Geuze",
+      "Brouwerij": "Vandervelden",
+      "Kleur": "",
+      "alcohol": 6
+    },
+    {
+      "Nr": 259,
+      "Naam": "Geuze F. Boon-Mariage Parfait",
+      "Brouwerij": "Frank Boon",
+      "Kleur": "Goudgeel",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 260,
+      "Naam": "Gildenbier",
+      "Brouwerij": "Haacht",
+      "Kleur": "Donker",
+      "alcohol": 6.7
+    },
+    {
+      "Nr": 261,
+      "Naam": "Ginder-Ale",
+      "Brouwerij": "Martinas",
+      "Kleur": "Amber",
+      "alcohol": 4.7
+    },
+    {
+      "Nr": 262,
+      "Naam": "Golden Campina",
+      "Brouwerij": "Campina",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 263,
+      "Naam": "Golden Hop",
+      "Brouwerij": "Bavik",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 264,
+      "Naam": "Golden Kenia",
+      "Brouwerij": "Huyghe",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 265,
+      "Naam": "Gouden Carolus",
+      "Brouwerij": "Het Anker",
+      "Kleur": "Amber",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 266,
+      "Naam": "Grand Cru Hoegaarden Tripel",
+      "Brouwerij": "De Kluis",
+      "Kleur": "Goudgeel",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 267,
+      "Naam": "Grimbergen Blond",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 7
+    },
+    {
+      "Nr": 268,
+      "Naam": "Grimbergen dubbel",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Donker",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 269,
+      "Naam": "Grimbergen Optimo Bruno",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Bruin",
+      "alcohol": 10
+    },
+    {
+      "Nr": 270,
+      "Naam": "Grimbergen trippel",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Goudgeel",
+      "alcohol": 8.6
+    },
+    {
+      "Nr": 271,
+      "Naam": "Grisette",
+      "Brouwerij": "Friart",
+      "Kleur": "",
+      "alcohol": 5.4
+    },
+    {
+      "Nr": 698,
+      "Naam": "Grisette ambrée",
+      "Brouwerij": "Saint Feuillen",
+      "Kleur": "Amber",
+      "alcohol": 5
+    },
+    {
+      "Nr": 696,
+      "Naam": "Grisette blanche",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Witbier",
+      "alcohol": 5
+    },
+    {
+      "Nr": 697,
+      "Naam": "Grisette blonde",
+      "Brouwerij": "Saint Feuillen",
+      "Kleur": "Blond",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 699,
+      "Naam": "Grisette Fruits des Bois",
+      "Brouwerij": "Saint Feuillen",
+      "Kleur": "Roodachtig",
+      "alcohol": 3.5
+    },
+    {
+      "Nr": 272,
+      "Naam": "Gueuze",
+      "Brouwerij": "Lindemans",
+      "Kleur": "Goudgeel",
+      "alcohol": 5
+    },
+    {
+      "Nr": 273,
+      "Naam": "Gueuze",
+      "Brouwerij": "Wets",
+      "Kleur": "Goudgeel",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 274,
+      "Naam": "Gueuze Becasse",
+      "Brouwerij": "Brabrux",
+      "Kleur": "Goudgeel",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 275,
+      "Naam": "Gueuze Belle-vue",
+      "Brouwerij": "Belle-vue",
+      "Kleur": "Goudgeel",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 276,
+      "Naam": "Gueuze Belle-vue cuvee",
+      "Brouwerij": "Belle-vue",
+      "Kleur": "Goudgeel",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 277,
+      "Naam": "Gueuze Cantillon",
+      "Brouwerij": "Cantillon",
+      "Kleur": "Goudgeel",
+      "alcohol": 5
+    },
+    {
+      "Nr": 278,
+      "Naam": "Gueuze Caveau",
+      "Brouwerij": "Timmermans",
+      "Kleur": "Goudgeel",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 279,
+      "Naam": "Gueuze Caves Bruegel",
+      "Brouwerij": "Brabrux",
+      "Kleur": "Goudgeel",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 280,
+      "Naam": "Gueuze De Neve",
+      "Brouwerij": "De Neve",
+      "Kleur": "Goudgeel",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 281,
+      "Naam": "Gueuze De Troch",
+      "Brouwerij": "De Troch",
+      "Kleur": "Goudgeel",
+      "alcohol": 5.8
+    },
+    {
+      "Nr": 282,
+      "Naam": "Gueuze Extra Cave St. Pierre",
+      "Brouwerij": "Brabrux",
+      "Kleur": "Goudgeel",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 283,
+      "Naam": "Gueuze Girardin",
+      "Brouwerij": "Girardin",
+      "Kleur": "Goudgeel",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 284,
+      "Naam": "Gueuze Lambic",
+      "Brouwerij": "Timmermans",
+      "Kleur": "Goudgeel",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 285,
+      "Naam": "Gueuze Lambic Jacobins",
+      "Brouwerij": "Bockor (Vanderghinste)",
+      "Kleur": "Goudgeel",
+      "alcohol": 6
+    },
+    {
+      "Nr": 286,
+      "Naam": "Gueuze Lambic Mort Subit",
+      "Brouwerij": "De Keersmaeker",
+      "Kleur": "Goudgeel",
+      "alcohol": 5
+    },
+    {
+      "Nr": 287,
+      "Naam": "Gueuze Lambic St.-Louis",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "Amber-bruin",
+      "alcohol": 5
+    },
+    {
+      "Nr": 288,
+      "Naam": "Gueuze Vieux Foudre",
+      "Brouwerij": "Vander Linden",
+      "Kleur": "Goudgeel",
+      "alcohol": 6
+    },
+    {
+      "Nr": 289,
+      "Naam": "Gulden draak",
+      "Brouwerij": "Bios",
+      "Kleur": "Donker",
+      "alcohol": 12
+    },
+    {
+      "Nr": 290,
+      "Naam": "Haechts Witbier",
+      "Brouwerij": "Haacht",
+      "Kleur": "Witbier",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 291,
+      "Naam": "Hapkin",
+      "Brouwerij": "Louwaege",
+      "Kleur": "Blond",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 292,
+      "Naam": "Helles Lagerbier",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "Blond",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 293,
+      "Naam": "Het Kapittel-abt",
+      "Brouwerij": "Van Eecke",
+      "Kleur": "Blond",
+      "alcohol": 10
+    },
+    {
+      "Nr": 294,
+      "Naam": "Het Kapittel-dubbel",
+      "Brouwerij": "Van Eecke",
+      "Kleur": "Bruin",
+      "alcohol": 6
+    },
+    {
+      "Nr": 295,
+      "Naam": "Het Kapittel-pater",
+      "Brouwerij": "Van Eecke",
+      "Kleur": "Bruin",
+      "alcohol": 5
+    },
+    {
+      "Nr": 296,
+      "Naam": "Het Kapittel-prior",
+      "Brouwerij": "Van Eecke",
+      "Kleur": "Bruin",
+      "alcohol": 7
+    },
+    {
+      "Nr": 297,
+      "Naam": "Hoegaarden",
+      "Brouwerij": "De Kluis",
+      "Kleur": "Helder",
+      "alcohol": 5
+    },
+    {
+      "Nr": 298,
+      "Naam": "Horse-ale",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Amber",
+      "alcohol": 4.9
+    },
+    {
+      "Nr": 299,
+      "Naam": "Houten Kop",
+      "Brouwerij": "Strubbe",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 300,
+      "Naam": "Ichtegem s oud bruin",
+      "Brouwerij": "Strubbe",
+      "Kleur": "Bruin",
+      "alcohol": 4.4
+    },
+    {
+      "Nr": 301,
+      "Naam": "Jack-Op",
+      "Brouwerij": "De Neve",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 302,
+      "Naam": "Jack-op Ernest Claes",
+      "Brouwerij": "Brabrux",
+      "Kleur": "Amber",
+      "alcohol": 3.7
+    },
+    {
+      "Nr": 303,
+      "Naam": "John Martin s Special",
+      "Brouwerij": "Palm",
+      "Kleur": "",
+      "alcohol": 6
+    },
+    {
+      "Nr": 304,
+      "Naam": "John Smith s Pale Ale",
+      "Brouwerij": "Roman",
+      "Kleur": "",
+      "alcohol": 5.6
+    },
+    {
+      "Nr": 305,
+      "Naam": "John Smith s Scotch Ale",
+      "Brouwerij": "Roman",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 306,
+      "Naam": "Judas",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 307,
+      "Naam": "Julius",
+      "Brouwerij": "De Kluis",
+      "Kleur": "",
+      "alcohol": 8.7
+    },
+    {
+      "Nr": 308,
+      "Naam": "Jupiler",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 309,
+      "Naam": "Jupiler N.A.",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Blond",
+      "alcohol": 0.5
+    },
+    {
+      "Nr": 310,
+      "Naam": "Kastaar",
+      "Brouwerij": "De Block-Joostens",
+      "Kleur": "Lichtbruin",
+      "alcohol": 7
+    },
+    {
+      "Nr": 311,
+      "Naam": "Kasteelbier Ingelmunster",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "Bruin",
+      "alcohol": 11
+    },
+    {
+      "Nr": 712,
+      "Naam": "Keirersberg",
+      "Brouwerij": "Van Steenberge",
+      "Kleur": "Blond",
+      "alcohol": 9
+    },
+    {
+      "Nr": 312,
+      "Naam": "Kerelsbier donker",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "",
+      "alcohol": 6.4
+    },
+    {
+      "Nr": 313,
+      "Naam": "Kerelsbier licht",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "",
+      "alcohol": 6.4
+    },
+    {
+      "Nr": 314,
+      "Naam": "Kerstbier",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "Blond",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 315,
+      "Naam": "Kerstbier",
+      "Brouwerij": "Van Den Bossche",
+      "Kleur": "Bruin",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 316,
+      "Naam": "Kerstbier",
+      "Brouwerij": "Verhaeghe",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 317,
+      "Naam": "Ketje",
+      "Brouwerij": "Artois",
+      "Kleur": "Blond",
+      "alcohol": 6.4
+    },
+    {
+      "Nr": 318,
+      "Naam": "Kir-Royal St.-Louis",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 319,
+      "Naam": "Kob Pilsener",
+      "Brouwerij": "De Keersmaeker",
+      "Kleur": "Blond",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 320,
+      "Naam": "Koningsbrau",
+      "Brouwerij": "Dendria",
+      "Kleur": "Blond",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 321,
+      "Naam": "Kortrijk 800",
+      "Brouwerij": "Bockor (Vanderghinste)",
+      "Kleur": "",
+      "alcohol": 6.9
+    },
+    {
+      "Nr": 322,
+      "Naam": "Kriek",
+      "Brouwerij": "Lindemans",
+      "Kleur": "Roodachtig",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 323,
+      "Naam": "Kriek",
+      "Brouwerij": "R. van Roy en Cie.",
+      "Kleur": "Roodachtig",
+      "alcohol": 4.3
+    },
+    {
+      "Nr": 324,
+      "Naam": "Kriek",
+      "Brouwerij": "Vander Linden",
+      "Kleur": "Roodachtig",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 325,
+      "Naam": "Kriek",
+      "Brouwerij": "Wets",
+      "Kleur": "Roodachtig",
+      "alcohol": 6
+    },
+    {
+      "Nr": 326,
+      "Naam": "Kriek Belle-Vue",
+      "Brouwerij": "Belle-Vue",
+      "Kleur": "Roodachtig",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 327,
+      "Naam": "Kriek Belle-Vue Cuvee",
+      "Brouwerij": "Belle-Vue",
+      "Kleur": "Roodachtig",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 328,
+      "Naam": "Kriek Cantillon",
+      "Brouwerij": "Cantillon",
+      "Kleur": "Roodachtig",
+      "alcohol": 5
+    },
+    {
+      "Nr": 329,
+      "Naam": "Kriek Caves Bruegel",
+      "Brouwerij": "Brabrux",
+      "Kleur": "Roodachtig",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 330,
+      "Naam": "Kriek De Neve",
+      "Brouwerij": "De Neve",
+      "Kleur": "Roodachtig",
+      "alcohol": 4.2
+    },
+    {
+      "Nr": 331,
+      "Naam": "Kriek De Troch",
+      "Brouwerij": "De Troch",
+      "Kleur": "Roodachtig",
+      "alcohol": 5.8
+    },
+    {
+      "Nr": 332,
+      "Naam": "Kriek F. Boon",
+      "Brouwerij": "Frank Boon",
+      "Kleur": "Roodachtig",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 333,
+      "Naam": "Kriek Girardin",
+      "Brouwerij": "Girardin",
+      "Kleur": "Roodachtig",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 334,
+      "Naam": "Kriek Lambic",
+      "Brouwerij": "Eylenbosch",
+      "Kleur": "Roodachtig",
+      "alcohol": 5
+    },
+    {
+      "Nr": 335,
+      "Naam": "Kriek Lambic",
+      "Brouwerij": "Timmermans",
+      "Kleur": "Roodachtig",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 336,
+      "Naam": "Kriek Lambic Jacobins",
+      "Brouwerij": "Bockor (Vanderghinste-",
+      "Kleur": "Roodachtig",
+      "alcohol": 6
+    },
+    {
+      "Nr": 337,
+      "Naam": "Kriek Lambic Mort Subite",
+      "Brouwerij": "De Keersmaeker",
+      "Kleur": "Roodachtig",
+      "alcohol": 5
+    },
+    {
+      "Nr": 338,
+      "Naam": "Kriek Lambic St. Louis",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "Roodachtig",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 339,
+      "Naam": "Kriek Sherry Poesy Old Beersel",
+      "Brouwerij": "Vandervelden",
+      "Kleur": "Roodachtig",
+      "alcohol": 7
+    },
+    {
+      "Nr": 340,
+      "Naam": "Kriekenbier",
+      "Brouwerij": "Sint-Jozef",
+      "Kleur": "Roodachtig",
+      "alcohol": 4
+    },
+    {
+      "Nr": 341,
+      "Naam": "Kronenbourg",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 4
+    },
+    {
+      "Nr": 342,
+      "Naam": "Kronenbourg light",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 2.9
+    },
+    {
+      "Nr": 343,
+      "Naam": "Kruger Export",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Blond",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 344,
+      "Naam": "Kruger Pils",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 345,
+      "Naam": "L Vapeur en Folie Blonde",
+      "Brouwerij": "Brasserie … Vapeur",
+      "Kleur": "Blond",
+      "alcohol": 8
+    },
+    {
+      "Nr": 346,
+      "Naam": "L Vapeur Rousse",
+      "Brouwerij": "Brasserie … Vapeur",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 347,
+      "Naam": "La Bergeotte",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "",
+      "alcohol": 6.1
+    },
+    {
+      "Nr": 348,
+      "Naam": "La Chouffe",
+      "Brouwerij": "Brasserie d Achouffe",
+      "Kleur": "Amber",
+      "alcohol": 6.8
+    },
+    {
+      "Nr": 349,
+      "Naam": "La Durboyse",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 350,
+      "Naam": "La Gauloise 6",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Bruin",
+      "alcohol": 6.4
+    },
+    {
+      "Nr": 351,
+      "Naam": "La Gauloise 8",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Bruin",
+      "alcohol": 8
+    },
+    {
+      "Nr": 352,
+      "Naam": "La Gaumaise Blonde",
+      "Brouwerij": "Maire",
+      "Kleur": "Amber",
+      "alcohol": 4
+    },
+    {
+      "Nr": 353,
+      "Naam": "La Meilleure Floreffe",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "Donker",
+      "alcohol": 8
+    },
+    {
+      "Nr": 354,
+      "Naam": "La Moneuse",
+      "Brouwerij": "Brasserie de Blaugies",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 355,
+      "Naam": "La Moneuse Spéciale No‰l",
+      "Brouwerij": "Brasserie de Blaugies",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 356,
+      "Naam": "La Montagnarde",
+      "Brouwerij": "Eloir-Bertiau",
+      "Kleur": "",
+      "alcohol": 9
+    },
+    {
+      "Nr": 685,
+      "Naam": "La poiluchette blanche",
+      "Brouwerij": "Huyghe",
+      "Kleur": "Witbier",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 357,
+      "Naam": "La Quenast",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 358,
+      "Naam": "La Thyloise",
+      "Brouwerij": "Saint-Etienne",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 359,
+      "Naam": "La Vieille Bon-Secours",
+      "Brouwerij": "Voisin",
+      "Kleur": "Amber",
+      "alcohol": 8
+    },
+    {
+      "Nr": 360,
+      "Naam": "Lambic",
+      "Brouwerij": "Eylenbosch",
+      "Kleur": "Goudgeel",
+      "alcohol": 5
+    },
+    {
+      "Nr": 361,
+      "Naam": "Lambiek",
+      "Brouwerij": "Cantillon",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 362,
+      "Naam": "Lambiek",
+      "Brouwerij": "Vander Linden",
+      "Kleur": "Goudgeel",
+      "alcohol": 6
+    },
+    {
+      "Nr": 363,
+      "Naam": "Lambiek",
+      "Brouwerij": "Vandervelden",
+      "Kleur": "",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 364,
+      "Naam": "Lambik Girardin-jonge",
+      "Brouwerij": "Girardin",
+      "Kleur": "Goudgeel",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 365,
+      "Naam": "Lambik Girardin-Kriek",
+      "Brouwerij": "Girardin",
+      "Kleur": "Roodachtig",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 366,
+      "Naam": "Lambik Girardin-oude",
+      "Brouwerij": "Girardin",
+      "Kleur": "Goudgeel",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 367,
+      "Naam": "Lamme Gisj",
+      "Brouwerij": "Vander Linden",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 368,
+      "Naam": "Lamoral d Egmont",
+      "Brouwerij": "Van Den Bossche",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 369,
+      "Naam": "Lamot Pilsor",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 370,
+      "Naam": "Le Pavé de l Ours",
+      "Brouwerij": "La Binchoise",
+      "Kleur": "",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 371,
+      "Naam": "Leffe Trippel",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 372,
+      "Naam": "Leroy Stout",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "",
+      "alcohol": 5.3
+    },
+    {
+      "Nr": 373,
+      "Naam": "Leuvens Witbier",
+      "Brouwerij": "Domus",
+      "Kleur": "",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 681,
+      "Naam": "Li Crochon blonde",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Blond",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 682,
+      "Naam": "Li Crochon brune",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Bruin",
+      "alcohol": 9
+    },
+    {
+      "Nr": 374,
+      "Naam": "Lichtaarts Kwezel",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 375,
+      "Naam": "Liefmans Frambozen",
+      "Brouwerij": "Liefmans",
+      "Kleur": "",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 376,
+      "Naam": "Liefmans Goudenband",
+      "Brouwerij": "Liefmans",
+      "Kleur": "Donkerbruin",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 377,
+      "Naam": "Liefmans Kriek",
+      "Brouwerij": "Liefmans",
+      "Kleur": "Roodachtig-bruin",
+      "alcohol": 7.2
+    },
+    {
+      "Nr": 378,
+      "Naam": "Liefmans oud bruin",
+      "Brouwerij": "Liefmans",
+      "Kleur": "Donkerbruin",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 379,
+      "Naam": "Liezelse Witte",
+      "Brouwerij": "Vieille Villers",
+      "Kleur": "",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 380,
+      "Naam": "Loburg",
+      "Brouwerij": "Artois",
+      "Kleur": "Blond",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 381,
+      "Naam": "Loebas",
+      "Brouwerij": "Callewaert",
+      "Kleur": "Bruin",
+      "alcohol": 8
+    },
+    {
+      "Nr": 382,
+      "Naam": "Loteling donker",
+      "Brouwerij": "Vieille-Villers",
+      "Kleur": "Donker",
+      "alcohol": 8
+    },
+    {
+      "Nr": 383,
+      "Naam": "Loteling licht",
+      "Brouwerij": "Vieille-Villers",
+      "Kleur": "Lichtbruin",
+      "alcohol": 8
+    },
+    {
+      "Nr": 384,
+      "Naam": "Lowie Kators/Malmedy blonde",
+      "Brouwerij": "Brasserie d Achouffe",
+      "Kleur": "Blond",
+      "alcohol": 8
+    },
+    {
+      "Nr": 385,
+      "Naam": "Lucifer",
+      "Brouwerij": "Riva",
+      "Kleur": "Blond",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 386,
+      "Naam": "Luxem",
+      "Brouwerij": "Maire",
+      "Kleur": "Amber",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 387,
+      "Naam": "Mackeson Stout",
+      "Brouwerij": "Martinas",
+      "Kleur": "",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 388,
+      "Naam": "Maes Pils",
+      "Brouwerij": "Maes",
+      "Kleur": "Light",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 389,
+      "Naam": "Mai-Bock",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Blond",
+      "alcohol": 6.1
+    },
+    {
+      "Nr": 390,
+      "Naam": "Malmédy brune",
+      "Brouwerij": "Brasserie d Achouffe",
+      "Kleur": "Bruin",
+      "alcohol": 8
+    },
+    {
+      "Nr": 391,
+      "Naam": "Maltosa",
+      "Brouwerij": "Haacht",
+      "Kleur": "",
+      "alcohol": 1.4
+    },
+    {
+      "Nr": 392,
+      "Naam": "Marckloff",
+      "Brouwerij": "La Ferme au Chˆne",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 393,
+      "Naam": "Maroussesous 10",
+      "Brouwerij": "Moortgat",
+      "Kleur": "",
+      "alcohol": 9.5
+    },
+    {
+      "Nr": 394,
+      "Naam": "Maroussesous 6",
+      "Brouwerij": "Moortgat",
+      "Kleur": "Bruin",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 395,
+      "Naam": "Maroussesous 8",
+      "Brouwerij": "Moortgat",
+      "Kleur": "Donkerbruin",
+      "alcohol": 8.2
+    },
+    {
+      "Nr": 396,
+      "Naam": "Maroussesous 9",
+      "Brouwerij": "Moortgat",
+      "Kleur": "Donkerbruin",
+      "alcohol": 8.9
+    },
+    {
+      "Nr": 397,
+      "Naam": "Martzen bier",
+      "Brouwerij": "Contreras",
+      "Kleur": "Amber",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 398,
+      "Naam": "McChouffe",
+      "Brouwerij": "Brasserie d Achouffe",
+      "Kleur": "Bruin",
+      "alcohol": 8.8
+    },
+    {
+      "Nr": 399,
+      "Naam": "McEwan's Christmas Ale",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Donker",
+      "alcohol": 8.4
+    },
+    {
+      "Nr": 400,
+      "Naam": "McEwan's Scotch Ale",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Donker",
+      "alcohol": 7.2
+    },
+    {
+      "Nr": 401,
+      "Naam": "Mechelschen Bruynen",
+      "Brouwerij": "Het Anker",
+      "Kleur": "Bruin",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 402,
+      "Naam": "Meibok",
+      "Brouwerij": "Domus",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 403,
+      "Naam": "Mill s Extra Stout",
+      "Brouwerij": "Haacht",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 404,
+      "Naam": "Mill s Pale Ale",
+      "Brouwerij": "Haacht",
+      "Kleur": "",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 405,
+      "Naam": "Mill s Scotch",
+      "Brouwerij": "Haacht",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 406,
+      "Naam": "Minty",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": 4.7
+    },
+    {
+      "Nr": 407,
+      "Naam": "Moeder Overste",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 408,
+      "Naam": "Moinette Biologique",
+      "Brouwerij": "Dupont",
+      "Kleur": "",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 409,
+      "Naam": "Mort Subite Cassis",
+      "Brouwerij": "De Keersmaeker",
+      "Kleur": "",
+      "alcohol": 4
+    },
+    {
+      "Nr": 410,
+      "Naam": "Mort Subite Framboos",
+      "Brouwerij": "De Keersmaeker",
+      "Kleur": "",
+      "alcohol": 4
+    },
+    {
+      "Nr": 411,
+      "Naam": "Mort Subite Perzik",
+      "Brouwerij": "De Keersmaeker",
+      "Kleur": "",
+      "alcohol": 4
+    },
+    {
+      "Nr": 412,
+      "Naam": "Myn's pils",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 413,
+      "Naam": "Myrtille",
+      "Brouwerij": "Lindemans",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 414,
+      "Naam": "Napoleon",
+      "Brouwerij": "De Smedt",
+      "Kleur": "Donker",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 415,
+      "Naam": "Ne Flierefluiter",
+      "Brouwerij": "De Smedt",
+      "Kleur": "",
+      "alcohol": 6.7
+    },
+    {
+      "Nr": 416,
+      "Naam": "Neyt Export",
+      "Brouwerij": "Neyt",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 417,
+      "Naam": "Neyt Pils",
+      "Brouwerij": "Neyt",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 680,
+      "Naam": "Nostradamus",
+      "Brouwerij": "La Caracole",
+      "Kleur": "Bruin",
+      "alcohol": 9.5
+    },
+    {
+      "Nr": 418,
+      "Naam": "Notger",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 419,
+      "Naam": "Nounou",
+      "Brouwerij": "Bios",
+      "Kleur": "",
+      "alcohol": 6.4
+    },
+    {
+      "Nr": 420,
+      "Naam": "Oerbier",
+      "Brouwerij": "De Dolle Brouwers",
+      "Kleur": "Roodachtig",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 421,
+      "Naam": "Ops-ale",
+      "Brouwerij": "Sint-Jozef",
+      "Kleur": "Helder",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 422,
+      "Naam": "Orval",
+      "Brouwerij": "Brasserie d Orval",
+      "Kleur": "Amber",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 423,
+      "Naam": "Oud bier Blond",
+      "Brouwerij": "Strubbe",
+      "Kleur": "Blond",
+      "alcohol": ""
+    },
+    {
+      "Nr": 424,
+      "Naam": "Oud bier Bruin",
+      "Brouwerij": "Strubbe",
+      "Kleur": "Bruin",
+      "alcohol": ""
+    },
+    {
+      "Nr": 425,
+      "Naam": "Oud Bruin",
+      "Brouwerij": "Facon",
+      "Kleur": "Bruin",
+      "alcohol": 5
+    },
+    {
+      "Nr": 426,
+      "Naam": "Oud Hell",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 427,
+      "Naam": "Oud Kriekenbier",
+      "Brouwerij": "Crombé",
+      "Kleur": "Roodachtig",
+      "alcohol": 6.2
+    },
+    {
+      "Nr": 428,
+      "Naam": "Oud Zottegems bier",
+      "Brouwerij": "Crombé",
+      "Kleur": "Bruin",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 429,
+      "Naam": "Ouden Bruin",
+      "Brouwerij": "Facon",
+      "Kleur": "Bruin",
+      "alcohol": 2
+    },
+    {
+      "Nr": 430,
+      "Naam": "Ouden bruinen",
+      "Brouwerij": "Verhaeghe",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 431,
+      "Naam": "Ouden Tripel",
+      "Brouwerij": "Bockor (Vanderghinste)",
+      "Kleur": "Donkerbruin",
+      "alcohol": 5.8
+    },
+    {
+      "Nr": 432,
+      "Naam": "Oudenaards Bruin",
+      "Brouwerij": "Cnudde",
+      "Kleur": "Bruin",
+      "alcohol": 5
+    },
+    {
+      "Nr": 433,
+      "Naam": "Oudenaards Wit Tarwebier",
+      "Brouwerij": "Clarysse",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 434,
+      "Naam": "Paas Kriek",
+      "Brouwerij": "Domus",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 435,
+      "Naam": "Paasbier",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "Blond",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 436,
+      "Naam": "Paling",
+      "Brouwerij": "Eylenbosch",
+      "Kleur": "Bruin",
+      "alcohol": 8
+    },
+    {
+      "Nr": 437,
+      "Naam": "Palm Green",
+      "Brouwerij": "Palm",
+      "Kleur": "",
+      "alcohol": 0.3
+    },
+    {
+      "Nr": 438,
+      "Naam": "Pater Bruine",
+      "Brouwerij": "Haacht",
+      "Kleur": "Bruin",
+      "alcohol": 1.4
+    },
+    {
+      "Nr": 439,
+      "Naam": "Pater Lieven",
+      "Brouwerij": "Van Den Bossche",
+      "Kleur": "Amber",
+      "alcohol": 5.4
+    },
+    {
+      "Nr": 701,
+      "Naam": "Patersvat - Affligem",
+      "Brouwerij": "De Smedt",
+      "Kleur": "Blond",
+      "alcohol": 7
+    },
+    {
+      "Nr": 440,
+      "Naam": "Paulus",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 441,
+      "Naam": "Pauwel Kwak",
+      "Brouwerij": "Bosteels",
+      "Kleur": "Lichtbruin",
+      "alcohol": 9.5
+    },
+    {
+      "Nr": 442,
+      "Naam": "Pax-pils",
+      "Brouwerij": "Sint-Jozef",
+      "Kleur": "Heldern",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 443,
+      "Naam": "Pˆche-Lambiek St.-Louis",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "",
+      "alcohol": 3.5
+    },
+    {
+      "Nr": 444,
+      "Naam": "Pˆcheresse",
+      "Brouwerij": "Lindemans",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 445,
+      "Naam": "Pee Klak",
+      "Brouwerij": "Strubbe",
+      "Kleur": "",
+      "alcohol": 5.4
+    },
+    {
+      "Nr": 446,
+      "Naam": "Peeterman",
+      "Brouwerij": "De Kluis",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 447,
+      "Naam": "Perzikbier",
+      "Brouwerij": "De Neve",
+      "Kleur": "",
+      "alcohol": 5.3
+    },
+    {
+      "Nr": 448,
+      "Naam": "Perziken bier",
+      "Brouwerij": "Timmermans",
+      "Kleur": "",
+      "alcohol": 4
+    },
+    {
+      "Nr": 449,
+      "Naam": "Peter Benoit",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "Blond",
+      "alcohol": 6
+    },
+    {
+      "Nr": 450,
+      "Naam": "Petrus",
+      "Brouwerij": "Bavik",
+      "Kleur": "Donkerbruin",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 451,
+      "Naam": "Pick-up",
+      "Brouwerij": "Walrave",
+      "Kleur": "Blond",
+      "alcohol": 4.6
+    },
+    {
+      "Nr": 452,
+      "Naam": "Piedboeuf Blonde",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Blond",
+      "alcohol": ""
+    },
+    {
+      "Nr": 453,
+      "Naam": "Piedboeuf Foncée",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 454,
+      "Naam": "Piedboeuf Triple",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Blond",
+      "alcohol": ""
+    },
+    {
+      "Nr": 455,
+      "Naam": "Pils",
+      "Brouwerij": "Callewaert",
+      "Kleur": "",
+      "alcohol": 4.7
+    },
+    {
+      "Nr": 456,
+      "Naam": "Pils Artisanale",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 457,
+      "Naam": "Pilsen bleek-bruin",
+      "Brouwerij": "Facon",
+      "Kleur": "Lichtbruin",
+      "alcohol": 2
+    },
+    {
+      "Nr": 458,
+      "Naam": "Piraat",
+      "Brouwerij": "Bios",
+      "Kleur": "",
+      "alcohol": 11
+    },
+    {
+      "Nr": 689,
+      "Naam": "Poiluchette blonde (la)",
+      "Brouwerij": "Huyghe",
+      "Kleur": "Blond",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 690,
+      "Naam": "Poiluchette brune (La)",
+      "Brouwerij": "Huyghe",
+      "Kleur": "Roodbruin",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 459,
+      "Naam": "Polderbier Bitter",
+      "Brouwerij": "Steedje",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 460,
+      "Naam": "Polderbier Fruitig",
+      "Brouwerij": "Steedje",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 461,
+      "Naam": "Pony-Stout",
+      "Brouwerij": "Bavik",
+      "Kleur": "Donkerbruin",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 462,
+      "Naam": "Poorter",
+      "Brouwerij": "Sterkens",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 463,
+      "Naam": "Poperings Hommelbier",
+      "Brouwerij": "Van Eecke",
+      "Kleur": "Blond",
+      "alcohol": 6
+    },
+    {
+      "Nr": 464,
+      "Naam": "Poperings Hommelbier",
+      "Brouwerij": "Van Eecke",
+      "Kleur": "",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 465,
+      "Naam": "Postel",
+      "Brouwerij": "De Smedt",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 466,
+      "Naam": "Postel Abdijbier",
+      "Brouwerij": "Campina",
+      "Kleur": "Donker",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 467,
+      "Naam": "Prik Pils",
+      "Brouwerij": "Roman",
+      "Kleur": "",
+      "alcohol": 4.9
+    },
+    {
+      "Nr": 468,
+      "Naam": "Primus Haacht Pils",
+      "Brouwerij": "Haacht",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 469,
+      "Naam": "Primus-Pils Christmas",
+      "Brouwerij": "Haacht",
+      "Kleur": "",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 470,
+      "Naam": "Promesse",
+      "Brouwerij": "Piessens",
+      "Kleur": "",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 471,
+      "Naam": "Prosit",
+      "Brouwerij": "Bosteels",
+      "Kleur": "Blond",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 472,
+      "Naam": "Punch Beer",
+      "Brouwerij": "Facon",
+      "Kleur": "Amber",
+      "alcohol": 8
+    },
+    {
+      "Nr": 473,
+      "Naam": "Queue de Charrue",
+      "Brouwerij": "Verhaeghe",
+      "Kleur": "",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 474,
+      "Naam": "Raf Export",
+      "Brouwerij": "Contreras",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 694,
+      "Naam": "Ramée ambrée",
+      "Brouwerij": "Brunehaut",
+      "Kleur": "Amber",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 695,
+      "Naam": "Ramée blonde",
+      "Brouwerij": "Brunehaut",
+      "Kleur": "Blond",
+      "alcohol": 8
+    },
+    {
+      "Nr": 475,
+      "Naam": "Redor Pils",
+      "Brouwerij": "Dupont",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 476,
+      "Naam": "Reinbrau",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 4
+    },
+    {
+      "Nr": 477,
+      "Naam": "Relax",
+      "Brouwerij": "Huyghe",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 478,
+      "Naam": "Réserve Marie de Hongrie",
+      "Brouwerij": "La Binchoise",
+      "Kleur": "",
+      "alcohol": 8.7
+    },
+    {
+      "Nr": 479,
+      "Naam": "Ridder",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 480,
+      "Naam": "Riva 2000",
+      "Brouwerij": "Riva",
+      "Kleur": "Blond",
+      "alcohol": 6
+    },
+    {
+      "Nr": 481,
+      "Naam": "Riva Pils",
+      "Brouwerij": "Riva",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 482,
+      "Naam": "Riva Triple",
+      "Brouwerij": "Riva",
+      "Kleur": "Amber",
+      "alcohol": 6.8
+    },
+    {
+      "Nr": 483,
+      "Naam": "Rochus",
+      "Brouwerij": "De Ryck",
+      "Kleur": "",
+      "alcohol": 4.7
+    },
+    {
+      "Nr": 484,
+      "Naam": "Rodal",
+      "Brouwerij": "De Neve",
+      "Kleur": "Bruin",
+      "alcohol": 3.8
+    },
+    {
+      "Nr": 486,
+      "Naam": "Rodea Gueuze",
+      "Brouwerij": "Eylenbosch",
+      "Kleur": "Goudgeel",
+      "alcohol": 5
+    },
+    {
+      "Nr": 487,
+      "Naam": "Rodea Kriek",
+      "Brouwerij": "Eylenbosch",
+      "Kleur": "Roodachtig",
+      "alcohol": 5
+    },
+    {
+      "Nr": 488,
+      "Naam": "Rodenbach",
+      "Brouwerij": "Rodenbach",
+      "Kleur": "Donker",
+      "alcohol": 4.6
+    },
+    {
+      "Nr": 489,
+      "Naam": "Rodenbach Grand Cru",
+      "Brouwerij": "Rodenbach",
+      "Kleur": "Donker",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 485,
+      "Naam": "Rofoncée",
+      "Brouwerij": "Riva",
+      "Kleur": "Donker",
+      "alcohol": 5
+    },
+    {
+      "Nr": 490,
+      "Naam": "Roman Oudenaards",
+      "Brouwerij": "Roman",
+      "Kleur": "Bruin",
+      "alcohol": 5
+    },
+    {
+      "Nr": 491,
+      "Naam": "Romy Export",
+      "Brouwerij": "Roman",
+      "Kleur": "",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 492,
+      "Naam": "Romy Luxe",
+      "Brouwerij": "Roman",
+      "Kleur": "Blond",
+      "alcohol": 5.6
+    },
+    {
+      "Nr": 493,
+      "Naam": "Romy Pils",
+      "Brouwerij": "Roman",
+      "Kleur": "Blond",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 494,
+      "Naam": "Rose de Cambrinus",
+      "Brouwerij": "Cantillon",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 495,
+      "Naam": "Routiers",
+      "Brouwerij": "Isebaert",
+      "Kleur": "",
+      "alcohol": 1
+    },
+    {
+      "Nr": 496,
+      "Naam": "Royal Ale",
+      "Brouwerij": "R. van Roy en Cie.",
+      "Kleur": "Bruin",
+      "alcohol": 5.1
+    },
+    {
+      "Nr": 497,
+      "Naam": "Royale Blonde",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "",
+      "alcohol": 1.2
+    },
+    {
+      "Nr": 498,
+      "Naam": "Safir",
+      "Brouwerij": "Artois",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 499,
+      "Naam": "Safir",
+      "Brouwerij": "Dendria",
+      "Kleur": "Blond",
+      "alcohol": 4.7
+    },
+    {
+      "Nr": 687,
+      "Naam": "Saint Feuillen blonde",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Blond",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 713,
+      "Naam": "Saint Monom Ambrée",
+      "Brouwerij": "Saint Monom",
+      "Kleur": "Amber",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 715,
+      "Naam": "Saint Monom au miel",
+      "Brouwerij": "Saint Monom",
+      "Kleur": "Amber",
+      "alcohol": 8
+    },
+    {
+      "Nr": 714,
+      "Naam": "Saint Monom brune",
+      "Brouwerij": "Saint Monom",
+      "Kleur": "Witbier",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 500,
+      "Naam": "Saint-Ghislain",
+      "Brouwerij": "Dupont",
+      "Kleur": "",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 501,
+      "Naam": "Saint-Hubert Blonde",
+      "Brouwerij": "Maire",
+      "Kleur": "Blond",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 502,
+      "Naam": "Saison",
+      "Brouwerij": "Dupont",
+      "Kleur": "Amber",
+      "alcohol": 5
+    },
+    {
+      "Nr": 503,
+      "Naam": "Saison 1900",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "Amber",
+      "alcohol": 5
+    },
+    {
+      "Nr": 504,
+      "Naam": "Saison d Erezée",
+      "Brouwerij": "Fant“me",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 505,
+      "Naam": "Saison de Pipaix",
+      "Brouwerij": "Brasserie a Vapeur",
+      "Kleur": "Amber",
+      "alcohol": 5
+    },
+    {
+      "Nr": 506,
+      "Naam": "Saison de Silly",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "Amber",
+      "alcohol": 5
+    },
+    {
+      "Nr": 507,
+      "Naam": "Saison Dupont",
+      "Brouwerij": "Dupont",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 508,
+      "Naam": "Saison Dupont Biologique",
+      "Brouwerij": "Dupont",
+      "Kleur": "",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 509,
+      "Naam": "Saison Regal",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Amber",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 510,
+      "Naam": "Salvator",
+      "Brouwerij": "R. van Roy en Cie.",
+      "Kleur": "Donkerbruin",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 511,
+      "Naam": "Sanctus",
+      "Brouwerij": "Moortgat",
+      "Kleur": "Donkerbruin",
+      "alcohol": 7
+    },
+    {
+      "Nr": 512,
+      "Naam": "Sas Export",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "Blond",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 513,
+      "Naam": "Sas Pils",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "Blond",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 514,
+      "Naam": "Sasbr„u",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "Blond",
+      "alcohol": 6
+    },
+    {
+      "Nr": 515,
+      "Naam": "Satan foncée",
+      "Brouwerij": "De Block",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 516,
+      "Naam": "Satan gold",
+      "Brouwerij": "De Block",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 517,
+      "Naam": "Schavuit",
+      "Brouwerij": "Callewaert",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 518,
+      "Naam": "Schwendi",
+      "Brouwerij": "Devaux",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 519,
+      "Naam": "Scotch",
+      "Brouwerij": "Wielemans-Cueppens",
+      "Kleur": "Donker",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 520,
+      "Naam": "Scotch de Silly",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "Donkerbruin",
+      "alcohol": 7.7
+    },
+    {
+      "Nr": 521,
+      "Naam": "Seule",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "Amber",
+      "alcohol": 5.7
+    },
+    {
+      "Nr": 522,
+      "Naam": "Sezoens",
+      "Brouwerij": "Martens",
+      "Kleur": "Blond",
+      "alcohol": 6
+    },
+    {
+      "Nr": 523,
+      "Naam": "Sezoens Quattro",
+      "Brouwerij": "Martens",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 524,
+      "Naam": "Sint-Bernardus Tripel",
+      "Brouwerij": "Sint-Bernardus",
+      "Kleur": "",
+      "alcohol": 7
+    },
+    {
+      "Nr": 525,
+      "Naam": "Skipper Ale",
+      "Brouwerij": "Campina",
+      "Kleur": "Amber",
+      "alcohol": 5
+    },
+    {
+      "Nr": 526,
+      "Naam": "Slag Lagerbier",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "Blond",
+      "alcohol": 4.7
+    },
+    {
+      "Nr": 527,
+      "Naam": "Sloeber",
+      "Brouwerij": "Roman",
+      "Kleur": "Blond",
+      "alcohol": 7
+    },
+    {
+      "Nr": 528,
+      "Naam": "SorciŠres de Ellezeles",
+      "Brouwerij": "Voisin",
+      "Kleur": "",
+      "alcohol": 6.8
+    },
+    {
+      "Nr": 529,
+      "Naam": "Spanik Gueuze",
+      "Brouwerij": "Eylenbosch",
+      "Kleur": "Goudgeel",
+      "alcohol": 5
+    },
+    {
+      "Nr": 530,
+      "Naam": "Sparta Pils",
+      "Brouwerij": "Bios",
+      "Kleur": "Helder",
+      "alcohol": 5
+    },
+    {
+      "Nr": 531,
+      "Naam": "Speciaal",
+      "Brouwerij": "Callewaert",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 532,
+      "Naam": "Speciaal Natuurbier",
+      "Brouwerij": "Strubbe",
+      "Kleur": "",
+      "alcohol": 4.9
+    },
+    {
+      "Nr": 533,
+      "Naam": "Special",
+      "Brouwerij": "De Biertoren",
+      "Kleur": "",
+      "alcohol": 0.8
+    },
+    {
+      "Nr": 534,
+      "Naam": "Special Alken",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "",
+      "alcohol": 1.4
+    },
+    {
+      "Nr": 535,
+      "Naam": "Special Block 6",
+      "Brouwerij": "De Block-Joostens",
+      "Kleur": "Roodƒtre",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 536,
+      "Naam": "Special Blond",
+      "Brouwerij": "Verlinden",
+      "Kleur": "Blond",
+      "alcohol": 0.8
+    },
+    {
+      "Nr": 537,
+      "Naam": "Special De Ryck",
+      "Brouwerij": "De Ryck",
+      "Kleur": "Blond",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 538,
+      "Naam": "Special Katje",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "Amber",
+      "alcohol": 6
+    },
+    {
+      "Nr": 539,
+      "Naam": "Spécial Noel",
+      "Brouwerij": "La Binchoise",
+      "Kleur": "",
+      "alcohol": 9
+    },
+    {
+      "Nr": 540,
+      "Naam": "Special Roman",
+      "Brouwerij": "Roman",
+      "Kleur": "Bruin",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 541,
+      "Naam": "Speciale Aerts",
+      "Brouwerij": "Palm",
+      "Kleur": "Amber",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 542,
+      "Naam": "Speciale Baf",
+      "Brouwerij": "De Smedt",
+      "Kleur": "Amber",
+      "alcohol": 5
+    },
+    {
+      "Nr": 543,
+      "Naam": "Spéciale d Avignon",
+      "Brouwerij": "Brasserie d Avignon",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 544,
+      "Naam": "Spéciale Gigi",
+      "Brouwerij": "Brasserie Gigi",
+      "Kleur": "",
+      "alcohol": 2
+    },
+    {
+      "Nr": 545,
+      "Naam": "Speciale Neval",
+      "Brouwerij": "De Neve",
+      "Kleur": "Amber claire",
+      "alcohol": 3.7
+    },
+    {
+      "Nr": 546,
+      "Naam": "Speciale Op-Ale",
+      "Brouwerij": "De Smedt",
+      "Kleur": "Amber",
+      "alcohol": 5
+    },
+    {
+      "Nr": 547,
+      "Naam": "Speciale Palm",
+      "Brouwerij": "Palm",
+      "Kleur": "Amber",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 548,
+      "Naam": "Speciale Stop",
+      "Brouwerij": "Bavik",
+      "Kleur": "Amber",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 549,
+      "Naam": "St. Benedict",
+      "Brouwerij": "De Kluis",
+      "Kleur": "Donkerrood",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 550,
+      "Naam": "St. BenoŒt blonde",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Blond",
+      "alcohol": 7.4
+    },
+    {
+      "Nr": 551,
+      "Naam": "St. BenoŒt brune",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "",
+      "alcohol": 7.4
+    },
+    {
+      "Nr": 552,
+      "Naam": "St. Feuillien",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Blond",
+      "alcohol": 6.4
+    },
+    {
+      "Nr": 554,
+      "Naam": "St. Feuillien blonde",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Blond",
+      "alcohol": 7.8
+    },
+    {
+      "Nr": 555,
+      "Naam": "St. Feuillien bruin",
+      "Brouwerij": "Friart",
+      "Kleur": "Bruin",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 553,
+      "Naam": "St. Feuillien brune",
+      "Brouwerij": "Friart",
+      "Kleur": "Bruin",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 556,
+      "Naam": "St. Feuillien brune",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "",
+      "alcohol": 7.4
+    },
+    {
+      "Nr": 557,
+      "Naam": "St. Feuillien Cuvée de No‰l",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "",
+      "alcohol": 9
+    },
+    {
+      "Nr": 558,
+      "Naam": "St. Feuillien Cuvée de No‰l",
+      "Brouwerij": "Friart",
+      "Kleur": "",
+      "alcohol": 9
+    },
+    {
+      "Nr": 559,
+      "Naam": "St. Paul Double",
+      "Brouwerij": "Sterkens",
+      "Kleur": "",
+      "alcohol": 6.9
+    },
+    {
+      "Nr": 560,
+      "Naam": "St. Paul Triple",
+      "Brouwerij": "Sterkens",
+      "Kleur": "",
+      "alcohol": 7.6
+    },
+    {
+      "Nr": 561,
+      "Naam": "St. Sebastiaan Dark",
+      "Brouwerij": "Sterkens",
+      "Kleur": "",
+      "alcohol": 6.9
+    },
+    {
+      "Nr": 562,
+      "Naam": "St. Sebastiaan Grand Cru",
+      "Brouwerij": "Sterkens",
+      "Kleur": "",
+      "alcohol": 7.6
+    },
+    {
+      "Nr": 563,
+      "Naam": "St. Sixtus Abdij Abt",
+      "Brouwerij": "Sint-Bernardus",
+      "Kleur": "Donker",
+      "alcohol": 10.4
+    },
+    {
+      "Nr": 564,
+      "Naam": "St. Sixtus Abdij Pater",
+      "Brouwerij": "Sint-Bernardus",
+      "Kleur": "Donker",
+      "alcohol": 7.1
+    },
+    {
+      "Nr": 565,
+      "Naam": "St. Sixtus Abdij Prior",
+      "Brouwerij": "Sint-Bernardus",
+      "Kleur": "Donker",
+      "alcohol": 8.3
+    },
+    {
+      "Nr": 566,
+      "Naam": "Star Blond",
+      "Brouwerij": "Haacht",
+      "Kleur": "",
+      "alcohol": 0.4
+    },
+    {
+      "Nr": 567,
+      "Naam": "Star Bruin",
+      "Brouwerij": "Haacht",
+      "Kleur": "Bruin",
+      "alcohol": 0.4
+    },
+    {
+      "Nr": 568,
+      "Naam": "Steedje",
+      "Brouwerij": "Steedje",
+      "Kleur": "",
+      "alcohol": 7.9
+    },
+    {
+      "Nr": 569,
+      "Naam": "Steedje Special",
+      "Brouwerij": "Steedje",
+      "Kleur": "",
+      "alcohol": 7.9
+    },
+    {
+      "Nr": 570,
+      "Naam": "Steenbrugge Dubbel",
+      "Brouwerij": "De Gouden Boom",
+      "Kleur": "Amber",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 571,
+      "Naam": "Steenbrugge Tripel",
+      "Brouwerij": "De Gouden Boom",
+      "Kleur": "",
+      "alcohol": 9
+    },
+    {
+      "Nr": 572,
+      "Naam": "Steendonk",
+      "Brouwerij": "Palm",
+      "Kleur": "Witbier",
+      "alcohol": 4.9
+    },
+    {
+      "Nr": 573,
+      "Naam": "Stella Artois",
+      "Brouwerij": "Artois",
+      "Kleur": "Blond",
+      "alcohol": 5.8
+    },
+    {
+      "Nr": 574,
+      "Naam": "Stella Artois light",
+      "Brouwerij": "Artois",
+      "Kleur": "Blond",
+      "alcohol": 3.5
+    },
+    {
+      "Nr": 575,
+      "Naam": "Stella Artois N.A.",
+      "Brouwerij": "Artois",
+      "Kleur": "Blond",
+      "alcohol": 0.5
+    },
+    {
+      "Nr": 576,
+      "Naam": "Ster Ale",
+      "Brouwerij": "Sterkens",
+      "Kleur": "Amber",
+      "alcohol": 4.7
+    },
+    {
+      "Nr": 577,
+      "Naam": "Ster Christmas",
+      "Brouwerij": "Sterkens",
+      "Kleur": "Donker amber",
+      "alcohol": 6.3
+    },
+    {
+      "Nr": 578,
+      "Naam": "Stille Nacht",
+      "Brouwerij": "De Dolle Brouwers",
+      "Kleur": "Roodachtig-bruin",
+      "alcohol": 9
+    },
+    {
+      "Nr": 579,
+      "Naam": "Stoeren Bonk",
+      "Brouwerij": "Bios",
+      "Kleur": "",
+      "alcohol": 6.2
+    },
+    {
+      "Nr": 580,
+      "Naam": "Stout",
+      "Brouwerij": "Louwaege",
+      "Kleur": "",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 581,
+      "Naam": "Stout Extra",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 582,
+      "Naam": "Straffe Hendrik",
+      "Brouwerij": "Straffe Hendrik",
+      "Kleur": "Blond",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 583,
+      "Naam": "Stropken Grand Cru",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "Amber",
+      "alcohol": 7
+    },
+    {
+      "Nr": 584,
+      "Naam": "Strubbe Stout",
+      "Brouwerij": "Strubbe",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 585,
+      "Naam": "Student",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 586,
+      "Naam": "Sublim",
+      "Brouwerij": "Piessens",
+      "Kleur": "",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 587,
+      "Naam": "Sublim Light",
+      "Brouwerij": "Piessens",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 588,
+      "Naam": "Super",
+      "Brouwerij": "Voisin",
+      "Kleur": "Amber",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 589,
+      "Naam": "Super 64",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "Amber",
+      "alcohol": 5.3
+    },
+    {
+      "Nr": 590,
+      "Naam": "Super Brune",
+      "Brouwerij": "Brasserie Gigi",
+      "Kleur": "",
+      "alcohol": 1.2
+    },
+    {
+      "Nr": 591,
+      "Naam": "Super des Fagnes",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "",
+      "alcohol": 8.1
+    },
+    {
+      "Nr": 592,
+      "Naam": "Super extra",
+      "Brouwerij": "Facon",
+      "Kleur": "",
+      "alcohol": 3
+    },
+    {
+      "Nr": 593,
+      "Naam": "Super Pils",
+      "Brouwerij": "Bavik",
+      "Kleur": "Blond",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 594,
+      "Naam": "Super Pils",
+      "Brouwerij": "Strubbe",
+      "Kleur": "Blond",
+      "alcohol": 4.3
+    },
+    {
+      "Nr": 595,
+      "Naam": "Supergeuze",
+      "Brouwerij": "Cantillon",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 596,
+      "Naam": "Supra",
+      "Brouwerij": "Artois",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 597,
+      "Naam": "Supra",
+      "Brouwerij": "Dendria",
+      "Kleur": "Blond",
+      "alcohol": 4.7
+    },
+    {
+      "Nr": 598,
+      "Naam": "T.V.",
+      "Brouwerij": "R. van Roy en Cie.",
+      "Kleur": "Geel",
+      "alcohol": 3.3
+    },
+    {
+      "Nr": 599,
+      "Naam": "Tafel Hell",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 600,
+      "Naam": "Tafelstout",
+      "Brouwerij": "Martens",
+      "Kleur": "",
+      "alcohol": 0.5
+    },
+    {
+      "Nr": 601,
+      "Naam": "Teutenbier",
+      "Brouwerij": "De Teut",
+      "Kleur": "",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 602,
+      "Naam": "Titje",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 603,
+      "Naam": "Toison D'Or",
+      "Brouwerij": "Het Anker",
+      "Kleur": "Blond",
+      "alcohol": 7
+    },
+    {
+      "Nr": 604,
+      "Naam": "Tongerlo Dubbel",
+      "Brouwerij": "Haacht",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 605,
+      "Naam": "Tongerlo Tripel",
+      "Brouwerij": "Haacht",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 606,
+      "Naam": "Tonneke",
+      "Brouwerij": "Contreras",
+      "Kleur": "Amber",
+      "alcohol": 5
+    },
+    {
+      "Nr": 607,
+      "Naam": "Tourtel ambrée",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Amber",
+      "alcohol": 0.5
+    },
+    {
+      "Nr": 608,
+      "Naam": "Tourtel blonde",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Blond",
+      "alcohol": 0.5
+    },
+    {
+      "Nr": 609,
+      "Naam": "Tourtel bruin",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Bruin",
+      "alcohol": 0.5
+    },
+    {
+      "Nr": 610,
+      "Naam": "Trappistenbier Dubbel",
+      "Brouwerij": "Trappisten",
+      "Kleur": "Donker",
+      "alcohol": 6.3
+    },
+    {
+      "Nr": 611,
+      "Naam": "Trappistenbier Extra",
+      "Brouwerij": "Trappisten",
+      "Kleur": "",
+      "alcohol": 4
+    },
+    {
+      "Nr": 612,
+      "Naam": "Trappistenbier Tripel",
+      "Brouwerij": "Trappisten",
+      "Kleur": "Amber",
+      "alcohol": 8.1
+    },
+    {
+      "Nr": 613,
+      "Naam": "Trappistenbier Westvleteren Abt",
+      "Brouwerij": "Sint-Sixtusabdij",
+      "Kleur": "Donkerrood",
+      "alcohol": 10.5
+    },
+    {
+      "Nr": 614,
+      "Naam": "Trappistenbier Westvleteren Extra",
+      "Brouwerij": "Sint-Sixtusabdij",
+      "Kleur": "Donkerrood",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 615,
+      "Naam": "Trappistenbier Westvleteren Special",
+      "Brouwerij": "Sint-Sixtusabdij",
+      "Kleur": "Donkerrood",
+      "alcohol": 6.2
+    },
+    {
+      "Nr": 618,
+      "Naam": "Trappistes Rochefort 10",
+      "Brouwerij": "Notre Dame de St.-Remy",
+      "Kleur": "Bruin",
+      "alcohol": 12
+    },
+    {
+      "Nr": 616,
+      "Naam": "Trappistes Rochefort 6",
+      "Brouwerij": "Notre Dame de St.-Remy",
+      "Kleur": "Bruin",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 617,
+      "Naam": "Trappistes Rochefort 8",
+      "Brouwerij": "Notre Dame de St.-Remy",
+      "Kleur": "Bruin",
+      "alcohol": 9.5
+    },
+    {
+      "Nr": 619,
+      "Naam": "Trial Alken",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "",
+      "alcohol": 3.7
+    },
+    {
+      "Nr": 620,
+      "Naam": "Trio",
+      "Brouwerij": "De Koninck",
+      "Kleur": "",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 621,
+      "Naam": "Tripel",
+      "Brouwerij": "Verhaeghe",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 622,
+      "Naam": "Tripel Loo",
+      "Brouwerij": "Vieille Villers",
+      "Kleur": "",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 623,
+      "Naam": "Triple Block",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "",
+      "alcohol": 3.2
+    },
+    {
+      "Nr": 624,
+      "Naam": "Triple Bock",
+      "Brouwerij": "Bavik",
+      "Kleur": "",
+      "alcohol": ""
+    },
+    {
+      "Nr": 625,
+      "Naam": "Triple Floreffe",
+      "Brouwerij": "Lefebvre",
+      "Kleur": "Amber",
+      "alcohol": 8
+    },
+    {
+      "Nr": 626,
+      "Naam": "Triple Loo",
+      "Brouwerij": "Isebaert",
+      "Kleur": "",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 627,
+      "Naam": "Triple Moine",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Blond",
+      "alcohol": 7.2
+    },
+    {
+      "Nr": 628,
+      "Naam": "Triple Villers",
+      "Brouwerij": "Vieille-Villers",
+      "Kleur": "Amber",
+      "alcohol": 8.9
+    },
+    {
+      "Nr": 629,
+      "Naam": "Triplor",
+      "Brouwerij": "Roman",
+      "Kleur": "",
+      "alcohol": 3.5
+    },
+    {
+      "Nr": 630,
+      "Naam": "Type de Bruin",
+      "Brouwerij": "R. van Roy en cie",
+      "Kleur": "",
+      "alcohol": 1.5
+    },
+    {
+      "Nr": 631,
+      "Naam": "Ulricher Pils",
+      "Brouwerij": "Girardin",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 632,
+      "Naam": "Unic Gigi",
+      "Brouwerij": "Brasserie Gigi",
+      "Kleur": "",
+      "alcohol": 3
+    },
+    {
+      "Nr": 633,
+      "Naam": "Upper 19",
+      "Brouwerij": "R. van Roy en Cie.",
+      "Kleur": "Blond",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 634,
+      "Naam": "Urtyp",
+      "Brouwerij": "Piedboeuf",
+      "Kleur": "Blond",
+      "alcohol": 6.1
+    },
+    {
+      "Nr": 635,
+      "Naam": "Vaartlander",
+      "Brouwerij": "Brouwerij Sint-Niklaas",
+      "Kleur": "",
+      "alcohol": 6.4
+    },
+    {
+      "Nr": 636,
+      "Naam": "Val-Dieu Triple",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "",
+      "alcohol": 9
+    },
+    {
+      "Nr": 637,
+      "Naam": "Vapeur LégŠre Blonde",
+      "Brouwerij": "Brasserie … Vapeur",
+      "Kleur": "",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 638,
+      "Naam": "Vedett",
+      "Brouwerij": "Moortgat",
+      "Kleur": "Blond",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 639,
+      "Naam": "Vera Pils",
+      "Brouwerij": "Verhaeghe",
+      "Kleur": "Blond",
+      "alcohol": 4.8
+    },
+    {
+      "Nr": 640,
+      "Naam": "Very Diest",
+      "Brouwerij": "Haacht",
+      "Kleur": "",
+      "alcohol": 1
+    },
+    {
+      "Nr": 641,
+      "Naam": "Vichtenaar",
+      "Brouwerij": "Verhaeghe",
+      "Kleur": "Donkerbruin",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 642,
+      "Naam": "Vieille Saison",
+      "Brouwerij": "Voisin",
+      "Kleur": "Amber",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 643,
+      "Naam": "Vieille Salme",
+      "Brouwerij": "Brasserie d Achouffe",
+      "Kleur": "",
+      "alcohol": 8.4
+    },
+    {
+      "Nr": 644,
+      "Naam": "Vieille Villers",
+      "Brouwerij": "Vieille-Villers",
+      "Kleur": "Donker",
+      "alcohol": 8
+    },
+    {
+      "Nr": 645,
+      "Naam": "Vieux Bruges Framboos",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 646,
+      "Naam": "Vieux Bruges Gueuze",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 647,
+      "Naam": "Vieux Bruges Kriek",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "Roodachtig",
+      "alcohol": 5
+    },
+    {
+      "Nr": 700,
+      "Naam": "Vieux Bruxelles",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "Rood",
+      "alcohol": 4
+    },
+    {
+      "Nr": 648,
+      "Naam": "Vieux-Temps",
+      "Brouwerij": "St. Guibert",
+      "Kleur": "Amber",
+      "alcohol": 4.6
+    },
+    {
+      "Nr": 649,
+      "Naam": "Vigneronne",
+      "Brouwerij": "Cantillon",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 650,
+      "Naam": "Villers St. Ghislain",
+      "Brouwerij": "Brasserie de Silly",
+      "Kleur": "",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 651,
+      "Naam": "Vlaams Wit/Blanch-ke",
+      "Brouwerij": "Van Honsebrouck",
+      "Kleur": "Witbier",
+      "alcohol": 4.6
+    },
+    {
+      "Nr": 652,
+      "Naam": "Vlaskop",
+      "Brouwerij": "Strubbe",
+      "Kleur": "Witbier",
+      "alcohol": 5.5
+    },
+    {
+      "Nr": 653,
+      "Naam": "Vondel",
+      "Brouwerij": "Riva",
+      "Kleur": "Donker",
+      "alcohol": 8.5
+    },
+    {
+      "Nr": 655,
+      "Naam": "Watneys Christmas",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Donker",
+      "alcohol": 7.7
+    },
+    {
+      "Nr": 656,
+      "Naam": "Watneys Pale-Ale",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Lichtbruin",
+      "alcohol": 5.4
+    },
+    {
+      "Nr": 654,
+      "Naam": "Watneys Red Barrel",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "",
+      "alcohol": 6
+    },
+    {
+      "Nr": 657,
+      "Naam": "Watneys Scotch",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Donker",
+      "alcohol": 8
+    },
+    {
+      "Nr": 658,
+      "Naam": "Watneys Stout",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Donker",
+      "alcohol": 3.6
+    },
+    {
+      "Nr": 659,
+      "Naam": "Watou s Wit",
+      "Brouwerij": "Van Eecke",
+      "Kleur": "",
+      "alcohol": 5
+    },
+    {
+      "Nr": 684,
+      "Naam": "Westmalle Double",
+      "Brouwerij": "Abbaye de Westmalle",
+      "Kleur": "Bruin",
+      "alcohol": 6
+    },
+    {
+      "Nr": 688,
+      "Naam": "Westmalle Triple",
+      "Brouwerij": "Abbaye de Westmalle",
+      "Kleur": "Goudgeel",
+      "alcohol": 9
+    },
+    {
+      "Nr": 660,
+      "Naam": "Whitbread Extra Stout",
+      "Brouwerij": "Martinas",
+      "Kleur": "",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 661,
+      "Naam": "Whitbread Pale Ale",
+      "Brouwerij": "Martinas",
+      "Kleur": "",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 662,
+      "Naam": "Wiels",
+      "Brouwerij": "Wielemans-Cueppens",
+      "Kleur": "Blond",
+      "alcohol": 5.3
+    },
+    {
+      "Nr": 663,
+      "Naam": "Wiels",
+      "Brouwerij": "Artois",
+      "Kleur": "Blond",
+      "alcohol": 5
+    },
+    {
+      "Nr": 746,
+      "Naam": "Wieze Christmas",
+      "Brouwerij": "",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 664,
+      "Naam": "Wieze Pils",
+      "Brouwerij": "R. van Roy en Cie.",
+      "Kleur": "Geel",
+      "alcohol": 4.7
+    },
+    {
+      "Nr": 743,
+      "Naam": "Wieze Tripel Blond",
+      "Brouwerij": "",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 744,
+      "Naam": "Wieze Tripel Blond",
+      "Brouwerij": "",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 745,
+      "Naam": "Wieze Tripel zoet bruin",
+      "Brouwerij": "",
+      "Kleur": "",
+      "alcohol": 8
+    },
+    {
+      "Nr": 665,
+      "Naam": "Wilson Mild",
+      "Brouwerij": "Bios",
+      "Kleur": "",
+      "alcohol": 5.2
+    },
+    {
+      "Nr": 666,
+      "Naam": "Witkap Pater/Dubbele Pater",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "Bruin",
+      "alcohol": 5.4
+    },
+    {
+      "Nr": 667,
+      "Naam": "Witkap Pater/Stimulo",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "Blond",
+      "alcohol": 5.4
+    },
+    {
+      "Nr": 668,
+      "Naam": "Witkap Pater/Tripel",
+      "Brouwerij": "Slaghmuylder",
+      "Kleur": "Blond",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 669,
+      "Naam": "Wonderbier",
+      "Brouwerij": "Moortgat",
+      "Kleur": "Blond",
+      "alcohol": 3.5
+    },
+    {
+      "Nr": 670,
+      "Naam": "Wonderlight",
+      "Brouwerij": "Moortgat",
+      "Kleur": "",
+      "alcohol": 1.9
+    },
+    {
+      "Nr": 671,
+      "Naam": "X-Mas",
+      "Brouwerij": "R. van Roy en Cie.",
+      "Kleur": "Donkerbruin",
+      "alcohol": 7.5
+    },
+    {
+      "Nr": 672,
+      "Naam": "XMas 8",
+      "Brouwerij": "Brasserie du Bocq",
+      "Kleur": "Bruin",
+      "alcohol": 8
+    },
+    {
+      "Nr": 673,
+      "Naam": "Yperman",
+      "Brouwerij": "Het Sas/Leroy",
+      "Kleur": "",
+      "alcohol": 6
+    },
+    {
+      "Nr": 674,
+      "Naam": "Zeelse houten kop",
+      "Brouwerij": "Huyghe",
+      "Kleur": "Amber",
+      "alcohol": 6.5
+    },
+    {
+      "Nr": 675,
+      "Naam": "Zottegems",
+      "Brouwerij": "Crombé",
+      "Kleur": "Donker",
+      "alcohol": 4.5
+    },
+    {
+      "Nr": 676,
+      "Naam": "Zottegemse Grand Cru",
+      "Brouwerij": "Crombé",
+      "Kleur": "Donker",
+      "alcohol": 8.4
+    },
+    {
+      "Nr": 677,
+      "Naam": "Zulte oud bruin",
+      "Brouwerij": "Alken-Maes",
+      "Kleur": "Bruin",
+      "alcohol": 4
+    }
+  ]

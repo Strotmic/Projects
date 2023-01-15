@@ -1,0 +1,5 @@
+dagen = 60*60*24*float(input('Hoeveel dagen?'))
+uren = 60*60*float(input('Hoeveel uren?'))
+minuten = 60* float(input('Geef het aantal minuten?'))
+sec = float(input('Geef het aantal seconden?'))
+print(f'Het totaal aantal seconden bedraagt {dagen+uren+minuten+sec}')

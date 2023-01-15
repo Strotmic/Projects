@@ -1,0 +1,165 @@
+/*---------------------------------------/*
+  # SETTINGS
+/*---------------------------------------*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+/*---------------------------------------/*
+  # GENERIC
+/*---------------------------------------*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/*---------------------------------------/*
+  # ELEMENTS
+/*---------------------------------------*/
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+}
+
+nav,
+footer {
+  background-color: #000;
+}
+
+h1 {
+  font-size: 6rem;
+  font-weight: 700;
+}
+@media (max-width: 576px) {
+  h1 {
+    font-size: 4rem;
+  }
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
+
+/*---------------------------------------/*
+  # OBJECTS
+/*---------------------------------------*/
+.o-container {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/*---------------------------------------/*
+  # COMPONENTS
+/*---------------------------------------*/
+.c-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+@media (max-width: 576px) {
+  .c-nav {
+    flex-direction: column;
+    gap: 1rem;
+  }
+}
+.c-nav__list {
+  list-style-type: none;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+.c-nav__link {
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.c-nav__link:hover, .c-nav__link--active {
+  color: #e668ae;
+}
+.c-nav__btn {
+  background-color: #fff;
+  color: #000;
+  border-radius: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-decoration: none;
+  border: 2px solid #fff;
+}
+.c-nav__btn:hover {
+  color: #fff;
+  background-color: transparent;
+}
+
+.c-header {
+  background-image: url(../images/iphone13.jpg);
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+}
+.c-header__text {
+  font-size: 1.5rem;
+}
+.c-header__caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+}
+
+.c-phone {
+  margin: 4rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+.c-phone__item {
+  text-align: center;
+  flex-basis: 100%;
+}
+@media (min-width: 577px) {
+  .c-phone__item {
+    flex-basis: calc(50% - 1rem);
+  }
+}
+@media (min-width: 769px) {
+  .c-phone__item {
+    flex-basis: calc(33.3333333333% - 1.3333333333rem);
+  }
+}
+@media (min-width: 993px) {
+  .c-phone__item {
+    flex-basis: calc(25% - 1.5rem);
+  }
+}
+.c-phone__img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+.c-phone__price {
+  border-top: 1px dotted #000;
+  padding-top: 1rem;
+  display: inline-block;
+}
+
+.c-footer {
+  text-align: center;
+  color: #fff;
+  padding: 2rem 0;
+  font-size: 0.8rem;
+}/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,190 @@
+/*---------------------------------------/*
+  # SETTINGS
+/*---------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+$color-black: #000;
+$color-white: #fff;
+$color-pink: #e668ae;
+$spacing-default: 2rem;
+$gap-nav: 1rem;
+$gap-phone: 2rem;
+
+/*---------------------------------------/*
+  # GENERIC
+/*---------------------------------------*/
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/*---------------------------------------/*
+  # ELEMENTS
+/*---------------------------------------*/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 1rem;
+}
+
+nav,
+footer {
+	background-color: $color-black;
+}
+
+h1 {
+	font-size: 6rem;
+	font-weight: 700;
+
+	@media (max-width: 576px) {
+		font-size: 4rem;
+	}
+}
+
+h2 {
+	margin-bottom: 1rem;
+}
+
+/*---------------------------------------/*
+  # OBJECTS
+/*---------------------------------------*/
+
+.o-container {
+	max-width: 80rem;
+	margin: 0 auto;
+	padding: 0 1rem;
+}
+
+/*---------------------------------------/*
+  # COMPONENTS
+/*---------------------------------------*/
+
+.c-nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem;
+
+	@media (max-width: 576px) {
+		flex-direction: column;
+		gap: $gap-nav;
+	}
+
+	&__list {
+		list-style-type: none;
+		text-align: right;
+		display: flex;
+		align-items: center;
+		gap: calc($gap-nav * 2);
+	}
+
+	&__link {
+		color: $color-white;
+		text-decoration: none;
+		transition: 0.3s;
+
+		&:hover,
+		&--active {
+			color: $color-pink;
+		}
+	}
+
+	&__btn {
+		background-color: $color-white;
+		color: $color-black;
+		border-radius: 1rem;
+		padding: 0.5rem 1rem;
+		border: none;
+		font-weight: bold;
+		font-size: 1.1rem;
+		text-decoration: none;
+		border: 2px solid $color-white;
+
+		&:hover {
+			color: $color-white;
+			background-color: transparent;
+		}
+	}
+}
+
+.c-header {
+	background-image: url(../images/iphone13.jpg);
+	background-position: center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 30rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	position: relative;
+	text-align: center;
+	color: $color-white;
+	text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+
+	&__text {
+		font-size: 1.5rem;
+	}
+
+	&__caption {
+		background-color: rgba(0, 0, 0, 0.5);
+		color: $color-white;
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		padding: 0.5rem 1rem;
+		font-size: 0.8rem;
+	}
+}
+
+.c-phone {
+	margin: 4rem 0;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: $gap-phone;
+
+	&__item {
+		text-align: center;
+		flex-basis: 100%;
+
+		@media (min-width: 577px) {
+			// 1 --> aantal gaps
+			// 2 --> aantal items naast elkaar
+			flex-basis: calc((100% / 2) - ($gap-phone * 1 / 2));
+		}
+
+		@media (min-width: 769px) {
+			// 2 --> aantal gaps
+			// 3 --> aantal items naast elkaar
+			flex-basis: calc((100% / 3) - ($gap-phone * 2 / 3));
+		}
+
+		@media (min-width: 993px) {
+			// 3 --> aantal gaps
+			// 4 --> aantal items naast elkaar
+			flex-basis: calc((100% / 4) - ($gap-phone * 3 / 4));
+		}
+	}
+
+	&__img {
+		max-width: 100%;
+		height: auto;
+		margin-bottom: 1rem;
+	}
+
+	&__price {
+		border-top: 1px dotted $color-black;
+		padding-top: 1rem;
+		display: inline-block;
+	}
+}
+
+.c-footer {
+	text-align: center;
+	color: $color-white;
+	padding: 2rem 0;
+	font-size: 0.8rem;
+}

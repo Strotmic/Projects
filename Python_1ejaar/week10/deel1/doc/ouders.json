@@ -1,0 +1,65 @@
+[
+    {
+      "Naam": "Spriet",
+      "Voornaam": "Marc",
+      "Geboortejaar": 1951,
+      "Studenten": [
+        {
+          "Naam": "Spriet",
+          "Voornaam": "Nick",
+          "Geboortejaar": 1976,
+          "Opleiding": "MCT"
+        },
+        {
+          "Naam": "Spriet",
+          "Voornaam": "Fien",
+          "Geboortejaar": 1977,
+          "Opleiding": "Verpleegkunde"
+        },
+        {
+          "Naam": "Spriet",
+          "Voornaam": "Marieke",
+          "Geboortejaar": 1981,
+          "Opleiding": "MIT"
+        }
+      ]
+    },
+    {
+      "Naam": "Vannieuwenhuyse",
+      "Voornaam": "Johan",
+      "Geboortejaar": 1954,
+      "Studenten": [
+        {
+          "Naam": "Vannieuwenhuyse",
+          "Voornaam": "Marieke",
+          "Geboortejaar": 1979,
+          "Opleiding": "Office management"
+        },
+        {
+          "Naam": "Vannieuwenhuyse",
+          "Voornaam": "Jan",
+          "Geboortejaar": 1982,
+          "Opleiding": "Burgerlijk ingenieur"
+        }
+      ]
+    },
+    {
+      "Naam": "Dehaene",
+      "Voornaam": "Lisa",
+      "Geboortejaar": 1965,
+      "Studenten": [
+        {
+          "Naam": "Dehane",
+          "Voornaam": "Wout",
+          "Geboortejaar": 1994,
+          "Opleiding": "MIT"
+        }    
+      ]
+    },
+    {
+      "Naam": "Jansens",
+      "Voornaam": "Wout",
+      "Geboortejaar": 1978,
+      "Studenten": []
+    }
+  ]

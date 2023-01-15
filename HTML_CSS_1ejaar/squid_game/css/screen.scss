@@ -1,0 +1,200 @@
+/*---------------------------------------/*
+  # SETTINGS
+/*---------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+$color-accent: #ed1b76;
+$color-lightaccent: #f47aaf;
+$color-dark: #000;
+$color-light: #fff;
+$gap: 1rem;
+$gap-cast: 1.5rem;
+
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+
+* {
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+
+.o-container {
+	margin: 0 auto 4rem;
+	padding: 0 1rem;
+	max-width: 75rem;
+
+	&--flex {
+		display: flex;
+	}
+}
+
+/*---------------------------------------/*
+  # ELEMENTS
+/*---------------------------------------*/
+
+body {
+	background-color: $color-dark;
+	font-family: 'Oswald', sans-serif;
+	color: $color-light;
+	margin: 0;
+}
+
+h1 {
+	font-size: 3.5rem;
+	margin-bottom: 0;
+}
+
+h2 {
+	font-size: 2rem;
+	margin: 0 0 1rem;
+}
+
+/*---------------------------------------/*
+  # COMPONENTS
+/*---------------------------------------*/
+
+.c-video{
+	max-width: 100%;
+}
+
+.c-nav {
+	background-color: $color-dark;
+	padding: 1rem;
+	justify-content: space-between;
+	margin-top: 0;
+	margin-bottom: 0;
+
+	&__list {
+		list-style-type: none;
+		text-align: right;
+		display: flex;
+		align-items: center;
+		gap: calc($gap * 2);
+		@media (max-width: 780px) {
+			 flex-direction: column;
+			 gap: $gap;
+			 align-items: flex-start;
+		}
+		
+	}
+
+	&__link {
+		color: $color-light;
+		text-decoration: none;
+		padding-left: 1.5rem;
+		transition: color 0.3s;
+		background-repeat: no-repeat;
+		background-size: 1.2rem;
+		&:hover{
+		color: $color-accent;
+		}
+		&--circle{
+			background-image: url(../assets/images/circle.svg);
+
+		}
+		&--triangle{
+						background-image: url(../assets/images/triangle.svg);
+
+		}
+								&--square {
+									background-image: url(../assets/images/square.svg);
+								}
+	}
+
+
+}
+
+.c-review {
+	max-width: 50rem;
+	margin: 0 auto;
+}
+
+.c-cast {
+	gap: 1.5rem;
+	flex-wrap: wrap;
+	justify-content: center;
+
+	&__title{
+		width: 100%;
+	}
+
+	&__photo {
+		max-width: 100%;
+		height: auto;
+		display: block;
+	}
+
+	&__member{
+		display: block;
+		flex-basis: calc((100% / 3) - ($gap-cast * 2 / 3));
+		position: relative;
+
+		@media (max-width: 768px) {
+			// 2 aantal hokjes naast mekaar en de 1 is aantal gaps
+			flex-basis: calc((100% / 2) - ($gap-cast * 1 / 2));
+		}
+
+		@media (max-width: 576px) {
+			flex-basis: 100%;
+		}
+
+		&:hover{
+			.c-cast__text{
+				opacity: 1;
+			}
+		}
+		
+	}
+	&__text{
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		background: rgb(250, 5, 195);
+		background: linear-gradient(0deg, rgba(250, 5, 195, 1) 30%, rgba(0, 0, 0, 0) 75%);
+		color: white;
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+		height: 100%;
+		text-align: center;
+		opacity: 0;
+		transition: opacity 0.3s ease-out;
+		@media (max-width: 992px) {
+			 opacity: 1;
+		}
+		
+
+	}
+	
+}
+
+.c-footer {
+	font-size: 0.8rem;
+	margin-top: 4rem;
+	text-align: center;
+}
+
+.c-btn{
+	display: inline-block;
+	margin-top: 1rem;
+	background: rgb(250, 5, 195);
+	transition: 0.5s ease-in-out;
+		background-image: linear-gradient(90deg, rgba(250, 5, 195, 1) 0%, rgba(228, 156, 210, 1) 50%, rgba(203, 20, 157, 1) 100%);
+		background-size: 200%;
+		padding: 0.8rem 2rem;
+		border-radius: 1rem;
+		color: white;
+		text-decoration: none;
+		text-transform: uppercase;
+		&:hover{
+			background-position: right;
+		}
+}
+
