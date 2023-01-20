@@ -1,0 +1,244 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Rubik:wght@500&display=swap");
+
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+$color-dark-pink: #a75b69;
+$color-white: #fff;
+$color-pink: #ee8296;
+$color-dark-blue: #28354b;
+$spacing-default: 2rem;
+$gap-nav: 2rem;
+$gap-phone: 2rem;
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+body {
+  font-family: "Nunito Sans", sans-serif;
+}
+h2 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+}
+h3 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+}
+
+h1 {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+}
+
+p {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+}
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+.o-container {
+  max-width: 75rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+
+.c-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+
+  @media (max-width: 576px) {
+    flex-direction: column;
+    gap: $gap-nav;
+  }
+
+  &__list {
+    list-style-type: none;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    gap: calc($gap-nav * 2);
+  }
+
+  &__link {
+    color: $color-dark-blue;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: 0.3s;
+
+    &:hover,
+    &--active {
+      color: $color-pink;
+    }
+  }
+}
+
+.c-header {
+  padding-top: 2rem;
+  padding-bottom: 14rem;
+  background-image: url(../images/headerbg.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  text-align: center;
+  color: black;
+
+  &__text {
+    max-width: 50rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  &__button {
+    &--link {
+      color: $color-white;
+      font-weight: bold;
+      text-decoration: none;
+      background-color: $color-pink;
+      padding: 0.5rem 1rem 0.5rem 1rem;
+      border-radius: 0.5rem;
+      border: 2px solid $color-pink;
+
+      &:hover {
+        background-color: transparent;
+        color: $color-pink;
+      }
+    }
+  }
+  &__caption {
+    background-color: rgba(255, 255, 255, 0.7);
+    color: black;
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+  }
+}
+
+.c-article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
+  &--midle {
+    flex-direction: row-reverse;
+  }
+
+  &__title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  &__text {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  &__link {
+    color: $color-pink;
+    text-decoration: none;
+
+    &:hover {
+      color: $color-dark-pink;
+    }
+  }
+
+  @media (min-width: 769px) {
+    &__img {
+      width: calc((100% / 2) - 2rem);
+      height: auto;
+    }
+
+    &__div {
+      width: calc((100% / 2) - 2rem);
+    }
+    gap: 2rem;
+  }
+  @media (max-width: 768px) {
+    flex-direction: column-reverse;
+
+    &__img {
+      width: 100%;
+      height: auto;
+      order: -1;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+    }
+    &__div {
+      text-align: center;
+      padding: 1rem;
+    }
+  }
+}
+
+.c-footer {
+  background: $color-dark-blue;
+  padding: 1.5rem;
+  &__div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
+
+    @media (max-width: 768px) {
+      flex-direction: column;
+    }
+  }
+  &__list {
+    list-style: none;
+    @media (max-width: 768px) {
+      margin-top: 0.75rem;
+    }
+  }
+
+  &__item {
+    display: inline-block;
+
+    @media (max-width: 576px) {
+        display: block;
+        margin-top: 0.75rem;
+        margin-bottom: 0.75rem;
+    }
+  }
+
+  &__link {
+    color: $color-white;
+    text-decoration: none;
+    margin: 1rem;
+  }
+
+  &__div2 {
+    padding-top: 1rem;
+    color: white;
+    text-align: center;
+    font-size: 0.75rem;
+    font-style: italic;
+  }
+}
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/

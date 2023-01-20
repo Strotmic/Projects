@@ -1,0 +1,84 @@
+{
+  "dierenasiel": {
+    "naam": "Happy Paws",
+    "adres": {
+      "straat": "Vosstraat",
+      "stad": "Kortrijk",
+      "postcode": "8500"
+    },
+    "telefoon": "555-555-5555",
+    "email": "info@happypaws.org",
+    "vergunning": true,
+    "kennels": [
+      {
+        "kennel_id": "A1",
+        "type": "honden",
+        "gekuist": true,
+        "dieren": [
+          {
+            "naam": "Fluffy",
+            "geboortedatum": "2015-01-01",
+            "inschrijvingsdatum": "2022-12-01",
+            "ras": "Golden Retriever",
+            "geslacht": "v",
+            "gecastreerd": true
+          },
+          {
+            "naam": "Buddy",
+            "geboortedatum": "2016-05-03",
+            "inschrijvingsdatum": "2023-01-04",
+            "ras": "Beagle",
+            "geslacht": "m",
+            "gecastreerd": false
+          }
+        ]
+      },
+      {
+        "kennel_id": "C3",
+        "type": "katten",
+        "gekuist": true,
+        "dieren": [
+          {
+            "naam": "Whiskers",
+            "geboortedatum": "2015-09-07",
+            "inschrijvingsdatum": "2022-10-14",
+            "ras": "Siamese",
+            "geslacht": "v",
+            "gecastreerd": true
+          },
+          {
+            "naam": "Mittens",
+            "geboortedatum": "2015-11-01",
+            "inschrijvingsdatum": "2022-11-24",
+            "ras": "Tabby",
+            "geslacht": "v",
+            "gecastreerd": true
+          }
+        ]
+      },
+      {
+        "kennel_id": "C4",
+        "type": "katten",
+        "gekuist": false,
+        "dieren": [
+          {
+            "naam": "Snoopy",
+            "geboortedatum": "2015-09-07",
+            "inschrijvingsdatum": "2022-10-14",
+            "ras": "Siamese",
+            "geslacht": "v",
+            "gecastreerd": true
+          },
+          {
+            "naam": "Tommy",
+            "geboortedatum": "2015-11-01",
+            "inschrijvingsdatum": "2022-10-14",
+            "ras": "Tabby",
+            "geslacht": "m",
+            "gecastreerd": false
+          }
+        ]
+      }
+    ]
+  }
+}
