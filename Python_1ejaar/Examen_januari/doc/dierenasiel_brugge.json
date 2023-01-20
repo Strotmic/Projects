@@ -1,0 +1,184 @@
+{
+  "dierenasiel": {
+    "naam": "Sea Shelter",
+    "adres": {
+      "straat": "Kerkstraat",
+      "stad": "Brugge",
+      "postcode": "800"
+    },
+    "telefoon": "123-123-1235",
+    "email": "info@seashelter.org",
+    "vergunning": false,
+    "kennels": [
+      {
+        "kennel_id": "E6",
+        "type": "honden",
+        "gekuist": true,
+        "dieren": [
+          {
+            "naam": "Rocky",
+            "geboortedatum": "2020-01-01",
+            "inschrijvingsdatum": "2022-11-12",
+            "ras": "Boxer",
+            "geslacht": "m",
+            "gecastreerd": true
+          },
+          {
+            "naam": "Bella",
+            "geboortedatum": "2020-02-01",
+            "inschrijvingsdatum": "2022-08-14",
+            "ras": "Rottweiler",
+            "geslacht": "v",
+            "gecastreerd": false
+          },
+          {
+            "naam": "Max",
+            "geboortedatum": "2022-01-01",
+            "inschrijvingsdatum": "2023-01-10",
+            "ras": "Golden Retriever",
+            "geslacht": "m",
+            "gecastreerd": true
+          },
+          {
+            "naam": "Charlie",
+            "geboortedatum": "2022-02-01",
+            "inschrijvingsdatum": "2023-01-01",
+            "ras": "German Shepherd",
+            "geslacht": "m",
+            "gecastreerd": true
+          },
+          {
+            "naam": "Lucy",
+            "geboortedatum": "2022-03-01",
+            "inschrijvingsdatum": "2022-10-21",
+            "ras": "Bulldog",
+            "geslacht": "v",
+            "gecastreerd": false
+          }
+        ]
+      },
+      {
+        "kennel_id": "E7",
+        "type": "honden",
+        "gekuist": true,
+        "dieren": [
+          {
+            "naam": "Cooper",
+            "geboortedatum": "2020-03-01",
+            "inschrijvingsdatum": "2022-06-19",
+            "ras": "Dachshund",
+            "geslacht": "m",
+            "gecastreerd": true
+          },
+          {
+            "naam": "Molly",
+            "geboortedatum": "2020-04-01",
+            "inschrijvingsdatum": "2022-11-15",
+            "ras": "Siberian Husky",
+            "geslacht": "v",
+            "gecastreerd": false
+          },
+          {
+            "naam": "Milo",
+            "geboortedatum": "2022-04-01",
+            "inschrijvingsdatum": "2023-01-12",
+            "ras": "Beagle",
+            "geslacht": "m",
+            "gecastreerd": true
+          }
+        ]
+      },
+      {
+        "kennel_id": "C1",
+        "type": "katten",
+        "gekuist": true,
+        "dieren": [
+          {
+            "naam": "Simba",
+            "geboortedatum": "2022-01-01",
+            "inschrijvingsdatum": "2023-01-01",
+            "ras": "Siamese",
+            "geslacht": "m",
+            "gecastreerd": true
+          },
+          {
+            "naam": "Smokey",
+            "geboortedatum": "2022-11-01",
+            "inschrijvingsdatum": "2022-12-09",
+            "ras": "Siamese",
+            "geslacht": "v",
+            "gecastreerd": true
+          }
+        ]
+      },
+      {
+        "kennel_id": "E8",
+        "type": "honden",
+        "gekuist": true,
+        "dieren": [
+          {
+            "naam": "Tucker",
+            "geboortedatum": "2020-05-01",
+            "inschrijvingsdatum": "2023-01-08",
+            "ras": "Pug",
+            "geslacht": "m",
+            "gecastreerd": true
+          },
+          {
+            "naam": "Lola",
+            "geboortedatum": "2020-06-01",
+            "inschrijvingsdatum": "2022-11-12",
+            "ras": "Akita",
+            "geslacht": "v",
+            "gecastreerd": false
+          }
+        ]
+      },
+      {
+        "kennel_id": "E9",
+        "type": "honden",
+        "gekuist": true,
+        "dieren": [
+          {
+            "naam": "Oscar",
+            "geboortedatum": "2020-07-01",
+            "inschrijvingsdatum": "2023-01-01",
+            "ras": "Shih Tzu",
+            "geslacht": "m",
+            "gecastreerd": true
+          },
+          {
+            "naam": "Daisy",
+            "geboortedatum": "2022-05-01",
+            "inschrijvingsdatum": "2023-01-01",
+            "ras": "Labrador Retriever",
+            "geslacht": "v",
+            "gecastreerd": false
+          },
+          {
+            "naam": "Bailey",
+            "geboortedatum": "2022-06-01",
+            "inschrijvingsdatum": "2023-01-01",
+            "ras": "Poodle",
+            "geslacht": "m",
+            "gecastreerd": true
+          },
+          {
+            "naam": "Roxy",
+            "geboortedatum": "2022-07-01",
+            "inschrijvingsdatum": "2023-01-01",
+            "ras": "Schnauzer",
+            "geslacht": "v",
+            "gecastreerd": false
+          }
+        ]
+      },
+      {
+        "kennel_id": "E10",
+        "type": "honden",
+        "gekuist": false,
+        "dieren": []
+      }
+    ]
+  }
+}

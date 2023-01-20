@@ -1,0 +1,231 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Rubik:wght@500&display=swap");
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+body {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+h2 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+}
+
+h3 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+}
+
+h1 {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+}
+
+p {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+.o-container {
+  max-width: 75rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+.c-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+@media (max-width: 576px) {
+  .c-nav {
+    flex-direction: column;
+    gap: 2rem;
+  }
+}
+.c-nav__list {
+  list-style-type: none;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+}
+.c-nav__link {
+  color: #28354b;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.c-nav__link:hover, .c-nav__link--active {
+  color: #ee8296;
+}
+
+.c-header {
+  padding-top: 2rem;
+  padding-bottom: 14rem;
+  background-image: url(../images/headerbg.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.c-header__text {
+  max-width: 50rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  margin-top: 1.5rem;
+}
+.c-header__button--link {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: #ee8296;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: 2px solid #ee8296;
+}
+.c-header__button--link:hover {
+  background-color: transparent;
+  color: #ee8296;
+}
+.c-header__caption {
+  background-color: rgba(255, 255, 255, 0.7);
+  color: black;
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+}
+
+.c-article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.c-article--midle {
+  flex-direction: row-reverse;
+}
+.c-article__title {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.c-article__text {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+.c-article__link {
+  color: #ee8296;
+  text-decoration: none;
+}
+.c-article__link:hover {
+  color: #a75b69;
+}
+@media (min-width: 769px) {
+  .c-article {
+    gap: 2rem;
+  }
+  .c-article__img {
+    width: calc(50% - 2rem);
+    height: auto;
+  }
+  .c-article__div {
+    width: calc(50% - 2rem);
+  }
+}
+@media (max-width: 768px) {
+  .c-article {
+    flex-direction: column-reverse;
+  }
+  .c-article__img {
+    width: 100%;
+    height: auto;
+    order: -1;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .c-article__div {
+    text-align: center;
+    padding: 1rem;
+  }
+}
+
+.c-footer {
+  background: #28354b;
+  padding: 1.5rem;
+}
+.c-footer__div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
+}
+@media (max-width: 768px) {
+  .c-footer__div {
+    flex-direction: column;
+  }
+}
+.c-footer__list {
+  list-style: none;
+}
+@media (max-width: 768px) {
+  .c-footer__list {
+    margin-top: 0.75rem;
+  }
+}
+.c-footer__item {
+  display: inline-block;
+}
+@media (max-width: 576px) {
+  .c-footer__item {
+    display: block;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+}
+.c-footer__link {
+  color: #fff;
+  text-decoration: none;
+  margin: 1rem;
+}
+.c-footer__div2 {
+  padding-top: 1rem;
+  color: white;
+  text-align: center;
+  font-size: 0.75rem;
+  font-style: italic;
+}
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/
