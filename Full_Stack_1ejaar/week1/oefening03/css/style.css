@@ -1,0 +1,57 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+.c-nutriscores {
+  display: flex;
+  flex-direction: column;
+  max-width: 20rem;
+}
+.c-nutriscores__score {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  aspect-ratio: 240/130;
+  background-size: cover;
+}
+.c-nutriscores__score--highest {
+  background-image: url(../images/nsa.svg);
+}
+.c-nutriscores__score--high {
+  background-image: url(../images/nsb.svg);
+}
+.c-nutriscores__score--middle {
+  background-image: url(../images/nsc.svg);
+}
+.c-nutriscores__score--low {
+  background-image: url(../images/nsd.svg);
+}
+.c-nutriscores__score--lowest {
+  background-image: url(../images/nse.svg);
+}
+
+.u-omrand {
+  border: thin solid #333;
+  padding: 2rem;
+}
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/

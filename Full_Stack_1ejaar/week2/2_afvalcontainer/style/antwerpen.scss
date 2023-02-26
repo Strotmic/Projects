@@ -1,0 +1,77 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+$color-text: #343838;
+$color-text-heading: #fff;
+$color-dark: #005f6b;
+$color-normal: #008c9e;
+$color-light: #00b4cc;
+$font-body: 'Montserrat', sans-serif;
+$font-heading: 'Playfair Display', serif;
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+body {
+  font-family: $font-body;
+  color: $color-text;
+}
+
+h1 {
+  text-align: center;
+}
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/
+
+.c-locatie {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: 0 auto;
+  border: 1px solid $color-dark;
+
+  @media (max-width: 768px) {
+    width: 100%;
+  }
+
+  &__adres {
+    padding: 0.5rem;
+    background-color: $color-normal;
+    color: $color-text-heading;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    font-weight: 400;
+  }
+
+  &__info {
+    display: flex;
+    flex-direction: row;
+  }
+
+  &__type {
+    color: $color-light;
+    border: 1px dashed $color-light;
+    padding: 0.5rem;
+    width: calc(100% / 5);
+    text-align: center;
+  }
+
+  &__aantal {
+    font-size: 1.5rem;
+    color: $color-dark;
+  }
+}

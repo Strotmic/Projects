@@ -1,0 +1,66 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+$color-background: orange;
+$color-header-gradientleft: #ff6347;
+$color-header-gradientright: #8b0000;
+$color-text: #000;
+$color-light: #ffffff;
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+body {
+  background: $color-background;
+  text-align: center;
+  color: $color-light;
+  font-family: 'Passion One', cursive;
+  font-size: 4em;
+}
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+.c-title {
+  font-size: 4.5rem;
+  background: linear-gradient(0deg, $color-header-gradientleft, $color-header-gradientright);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 0.75rem;
+}
+
+.c-joker {
+  margin: 0 auto;
+  width: 80%;
+  min-width: 40rem;
+  display: flex;
+  justify-content: space-between;
+
+  &__trekking {
+    height: 6rem;
+    width: 6rem;
+    min-width: 6rem;
+    border-radius: 50%;
+    background-color: $color-light;
+    color: $color-text;
+    line-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &__img {
+    width: 60%;
+  }
+}
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/

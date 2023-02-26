@@ -1,0 +1,96 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+.c-place {
+  width: 80vw;
+  border: solid thin #ccc;
+  display: flex;
+  flex-direction: row;
+  @media only screen and (max-width: 800px) {
+    width: 500px;
+    min-width: 500px;
+    flex-direction: column;
+  }
+
+  &__amount {
+    flex-grow: 1;
+    text-align: right;
+    font-size: 4rem;
+    font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+  }
+  &__city {
+    text-align: center;
+  }
+  &__cover {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 3;
+    flex-basis: 0;
+    background-image: url('../images/cover.jpg');
+    background-size: cover;
+    color: #fff;
+    font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+    @media only screen and (max-width: 800px) {
+      height: 300px;
+      flex-basis: auto;
+    }
+  }
+  &__label {
+    margin: 0;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    @media only screen and (max-width: 800px) {
+      font-size: 1rem;
+    }
+  }
+  &__status {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+    @media only screen and (max-width: 800px) {
+      flex-direction: row;
+      display: flex;
+      justify-content: stretch;
+      flex-basis: auto;
+    }
+
+    &--available {
+      background-color: rgb(16, 134, 1);
+    }
+    &--in-use {
+      background-color: rgb(1, 54, 134);
+    }
+    &--out-of-use {
+      background-color: rgb(134, 1, 19);
+    }
+  }
+}
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/

@@ -1,0 +1,58 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+body {
+  background: orange;
+  text-align: center;
+  color: #ffffff;
+  font-family: "Passion One", cursive;
+  font-size: 4em;
+}
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+.c-title {
+  font-size: 4.5rem;
+  background: linear-gradient(0deg, #ff6347, #8b0000);
+  -webkit-background-clip: text;
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 0.75rem;
+}
+
+.c-joker {
+  margin: 0 auto;
+  width: 80%;
+  min-width: 40rem;
+  display: flex;
+  justify-content: space-between;
+}
+.c-joker__trekking {
+  height: 6rem;
+  width: 6rem;
+  min-width: 6rem;
+  border-radius: 50%;
+  background-color: #ffffff;
+  color: #000;
+  line-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.c-joker__img {
+  width: 60%;
+}
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/

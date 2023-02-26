@@ -1,0 +1,64 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #343838;
+}
+
+h1 {
+  text-align: center;
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/
+.c-locatie {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: 0 auto;
+  border: 1px solid #005f6b;
+}
+@media (max-width: 768px) {
+  .c-locatie {
+    width: 100%;
+  }
+}
+.c-locatie__adres {
+  padding: 0.5rem;
+  background-color: #008c9e;
+  color: #fff;
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  font-weight: 400;
+}
+.c-locatie__info {
+  display: flex;
+  flex-direction: row;
+}
+.c-locatie__type {
+  color: #00b4cc;
+  border: 1px dashed #00b4cc;
+  padding: 0.5rem;
+  width: 20%;
+  text-align: center;
+}
+.c-locatie__aantal {
+  font-size: 1.5rem;
+  color: #005f6b;
+}

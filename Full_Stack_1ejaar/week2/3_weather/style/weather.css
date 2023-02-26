@@ -1,0 +1,79 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto, sans-serif;
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+.c-weather {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 35rem;
+  align-content: space-between;
+}
+
+.c-forecast {
+  display: flex;
+  flex-direction: column;
+  width: 10rem;
+  margin: 0.5rem;
+  background: #1e5799;
+  background: linear-gradient(to bottom, rgb(30, 87, 153) 0%, rgb(125, 185, 232) 100%);
+  border-radius: 0.5rem;
+}
+.c-forecast :last-child {
+  border-bottom: none;
+}
+.c-forecast__item {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  border-bottom: thin solid #4f86c4;
+}
+.c-forecast__item--datum {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #eef2f6;
+}
+.c-forecast__item--symbol {
+  flex-grow: 5;
+}
+.c-forecast__item--max {
+  font-size: 2.5rem;
+  color: rgb(255, 98, 59);
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.4);
+}
+.c-forecast__item--min {
+  color: rgb(33, 81, 202);
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+}
+.c-forecast__img {
+  width: 60%;
+  height: auto;
+}
+.c-forecast__windsymbol {
+  width: 20%;
+}
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/
