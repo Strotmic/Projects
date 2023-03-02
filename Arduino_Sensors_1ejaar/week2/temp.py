@@ -1,5 +1,6 @@
-import os
-import subprocess
+import matplotlib
+matplotlib.use('Pdf')
+import matplotlib.pyplot as plt
 from RPi import GPIO
 moto = 21
 prev_temp = 0
@@ -11,6 +12,12 @@ GPIO.setup(moto, GPIO.OUT)
 m_pwm = GPIO.PWM(moto,50)
 
 document = '/sys/bus/w1/devices/28-01889300007d/w1_slave'
+temperaturen=[]
+
+def plot_grafiek():
+    plt.plot(temperaturen)
+    plt.ylabel('temperatuur')
+    plt.savefig('/home/pi/Documents/python/pdf/test.pdf')
 
 def read_file(filename):
     doc = open(filename,'r')
@@ -36,9 +43,13 @@ try:
     prev_temp = read_file(document)
     while True:
         temp = read_file(document)
+        temperaturen.append(temp)
         if prev_temp + 0.5<temp or prev_temp-0.5>temp:
             vent(temp, gewenst)
             prev_temp = temp
+        
+        if(len(temperaturen)%10==0):
+            plot_grafiek()
 
 except KeyboardInterrupt as e:
     print(e)
