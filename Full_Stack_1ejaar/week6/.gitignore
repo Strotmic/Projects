@@ -1,0 +1,4 @@
+config.py
+venv_fswd
+*.css
+.DS_Store

@@ -1,0 +1,159 @@
+{
+	"info": {
+		"_postman_id": "2e60d471-2b54-4499-99b4-33f463f4ab25",
+		"name": "FSWD-Theorie06 - SQL injection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET een bestemming - 👌🏼",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/v1/bestemmingen_ok/527/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1",
+						"bestemmingen_ok",
+						"527"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET een bestemming - 👌🏼  no-params",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/v1/bestemmingen_nok/527/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1",
+						"bestemmingen_nok",
+						"527"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET een bestemming - 😔",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/v1/bestemmingen_ok/527 OR 1=1/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1",
+						"bestemmingen_ok",
+						"527 OR 1=1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET een bestemming - 😔  no-params",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/v1/bestemmingen_nok/527 OR 1=1/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1",
+						"bestemmingen_nok",
+						"527 OR 1=1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET een bestemming - 😭",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/v1/bestemmingen_ok/527;DROP DATABASE vliegtuigen/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1",
+						"bestemmingen_ok",
+						"527;DROP DATABASE vliegtuigen\n"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET een bestemming - 😭  no-params",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/v1/bestemmingen_nok/527;DROP DATABASE vliegtuigen/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1",
+						"bestemmingen_nok",
+						"527;DROP DATABASE vliegtuigen"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

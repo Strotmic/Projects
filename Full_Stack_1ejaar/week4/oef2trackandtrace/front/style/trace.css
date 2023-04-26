@@ -1,0 +1,108 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+h1,
+h2 {
+  padding: 0.5rem 0rem;
+  color: #333;
+  font-weight: normal;
+  margin: 0;
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+.c-track {
+  max-width: 50rem;
+  min-width: 40rem;
+  margin: auto;
+  border: solid 1px rgb(231, 8, 8);
+  font-family: "Lato", sans-serif;
+}
+.c-track__cover {
+  height: 12.5rem;
+  background-image: url("../image/background.webp");
+  background-size: cover;
+}
+.c-track__search {
+  padding: 1rem;
+}
+.c-track__infosender {
+  padding: 1rem;
+}
+.c-track__add {
+  padding: 1rem;
+}
+.c-track__trace {
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.c-track__title {
+  width: 100%;
+}
+
+.c-step {
+  width: calc(25% - 1rem);
+  background-color: #eee;
+  display: flex;
+  flex-flow: column;
+  margin: 0.5rem;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid 0.5rem #eee;
+  opacity: 0.2;
+}
+.c-step--active {
+  border-bottom-color: rgb(231, 8, 8);
+}
+.c-step--done {
+  opacity: 1;
+}
+.c-step__datum {
+  font-size: 0.75em;
+  color: #333;
+}
+.c-step__info {
+  color: rgb(231, 8, 8);
+  font-weight: bold;
+}
+
+.c-row {
+  display: flex;
+  flex-flow: row;
+  align-content: space-between;
+  align-items: baseline;
+}
+.c-row__btn {
+  margin-left: 0.5rem;
+}
+.c-row__info {
+  flex-grow: 1;
+}
+.c-row__label {
+  font-weight: bold;
+  padding: 0.5rem 0rem;
+  flex-basis: 100px;
+  color: rgb(51, 51, 51);
+}
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/
+.u-hide {
+  display: none;
+}
+
+.u-extra-margin {
+  margin: 0.75rem 0rem;
+}

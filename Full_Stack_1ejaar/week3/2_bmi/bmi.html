@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Formulieren - Oefening2</title>
+  <link rel="stylesheet" href="style/bmi.css">
+  <script src="script/bmi.js"></script>
+</head>
+
+<body>
+  <h1>BMI Calculator</h1>
+  <form class="c-form" action="#" method="POST">
+    <div class="c-form__group">
+      <label class="c-form__label" for="lengte">Lengte (in cm)</label>
+      <input class="c-form__txt js-lengte" type="number" name="lengte" id="lengte" min="150" max="200" value="150">
+    </div>
+    <div class="c-form__group">
+      <label class="c-form__label" for="gewicht">Gewicht (in kg)</label>
+      <input class="c-form__txt js-gewicht" type="number" name="gewicht" id="gewicht" min="35" max="200" step="0.5" value="35">
+    </div>
+    <div class="c-form__group">
+      <input type="button" class="js-btn" value="Bereken BMI">
+    </div>
+  </form>
+</body>
+
+</html>

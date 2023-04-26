@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Formulieren - Oefening1</title>
+  <link href="style/style.css" rel="stylesheet" type="text/css">
+  <script src="script/script.js"></script>
+</head>
+
+<body>
+  <form class="c-form" action="https://www.diero.be/MCT/showpost.php" method="POST">
+    <fieldset>
+      <legend>Enqu&ecirc;te</legend>
+      <div class="c-form__group">
+        Wat vind jij het meest belangrijke aan een website:
+        <div class="c-form__chkgroup">
+          <input class="c-form__chk" type="checkbox" name="belang[]" id="pop" value="populair">
+          <label for="pop">De populariteit van het merk</label>
+        </div>
+        <div class="c-form__chkgroup">
+          <input class="c-form__chk" type="checkbox" name="belang[]" id="gbr" value="gebruiksvriendelijkheid">
+          <label for="gbr">De gebruiksvriendelijkheid van de website</label>
+        </div>
+      </div>
+      <div class="c-form__group">Hoe beoordeel jij deze website?
+        <div>
+          <input type="radio" name="beoordeling" id="zg" value="zg"><label for="zg">Zeer goed</label>
+          <input type="radio" name="beoordeling" id="g" value="g"><label for="g">Goed</label>
+          <input type="radio" name="beoordeling" id="m" value="m"><label for="m">Matig</label>
+          <input type="radio" name="beoordeling" id="s" value="o"><label for="s">Onvoldoende</label>
+        </div>
+
+      </div>
+
+      <div>Kan je dit uitdrukken in een score op 10?</div>
+      <div class="c-form__group">
+        <input type="range" name="score" min="0" max="10" step="0.5" class="js-range"> Huidige Score: <span class="js-score">X</span>/10
+      </div>
+      <input type="submit" value="Stuur je feedback door">
+    </fieldset>
+  </form>
+
+</body>
+
+</html>

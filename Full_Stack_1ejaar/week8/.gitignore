@@ -1,0 +1,6 @@
+.DS_Store
+*.css.map
+*.css
+venv_fswd
+config.py
+__pycache__

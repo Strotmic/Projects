@@ -1,0 +1,200 @@
+[
+  {
+    "unit": "iPhone 1",
+    "year": 2007,
+    "price": 499,
+    "inflation_index": 1000
+  },
+  {
+    "unit": "iPhone 3G",
+    "year": 2008,
+    "price": 599,
+    "inflation_index": 1000
+  },
+  {
+    "unit": "iPhone 3GS",
+    "year": 2009,
+    "price": 599,
+    "inflation_index": 1000
+  },
+  {
+    "unit": "iPhone 4",
+    "year": 2010,
+    "price": 599,
+    "inflation_index": 1000
+  },
+  {
+    "unit": "iPhone 4S",
+    "year": 2011,
+    "price": 649,
+    "inflation_index": 1000
+  },
+  {
+    "unit": "iPhone 5",
+    "year": 2012,
+    "price": 649,
+    "inflation_index": 1000
+  },
+  {
+    "unit": "iPhone 5c",
+    "year": 2013,
+    "price": 549,
+    "inflation_index": 1000
+  },
+  {
+    "unit": "iPhone 5s",
+    "year": 2013,
+    "price": 649,
+    "inflation_index": 1000
+  },
+  {
+    "unit": "iPhone 6",
+    "year": 2014,
+    "price": 649,
+    "inflation_index": 1071.9
+  },
+  {
+    "unit": "iPhone 6 Plus",
+    "year": 2014,
+    "price": 749,
+    "inflation_index": 1071.9
+  },
+  {
+    "unit": "iPhone 6s",
+    "year": 2015,
+    "price": 649,
+    "inflation_index": 1111.8
+  },
+  {
+    "unit": "iPhone 6s Plus",
+    "year": 2015,
+    "price": 749,
+    "inflation_index": 1111.8
+  },
+  {
+    "unit": "iPhone SE (1st gen)",
+    "year": 2016,
+    "price": 399,
+    "inflation_index": 1151.3
+  },
+  {
+    "unit": "iPhone 7",
+    "year": 2016,
+    "price": 649,
+    "inflation_index": 1151.3
+  },
+  {
+    "unit": "iPhone 7 Plus",
+    "year": 2016,
+    "price": 769,
+    "inflation_index": 1151.3
+  },
+  {
+    "unit": "iPhone 8",
+    "year": 2017,
+    "price": 699,
+    "inflation_index": 1183.8
+  },
+  {
+    "unit": "iPhone 8 Plus",
+    "year": 2017,
+    "price": 799,
+    "inflation_index": 1183.8
+  },
+  {
+    "unit": "iPhone X",
+    "year": 2017,
+    "price": 999,
+    "inflation_index": 1183.8
+  },
+  {
+    "unit": "iPhone XS",
+    "year": 2018,
+    "price": 999,
+    "inflation_index": 1151.3
+  },
+  {
+    "unit": "iPhone XS Max",
+    "year": 2018,
+    "price": 1099,
+    "inflation_index": 1151.3
+  },
+  {
+    "unit": "iPhone XR",
+    "year": 2018,
+    "price": 749,
+    "inflation_index": 1151.3
+  },
+  {
+    "unit": "iPhone 11",
+    "year": 2019,
+    "price": 699,
+    "inflation_index": 1117.6
+  },
+  {
+    "unit": "iPhone 11 Pro",
+    "year": 2019,
+    "price": 999,
+    "inflation_index": 1117.6
+  },
+  {
+    "unit": "iPhone 11 Pro Max",
+    "year": 2019,
+    "price": 1099,
+    "inflation_index": 1117.6
+  },
+  {
+    "unit": "iPhone SE (2nd gen)",
+    "year": 2020,
+    "price": 399,
+    "inflation_index": 1070.4
+  },
+  {
+    "unit": "iPhone 12 Mini",
+    "year": 2020,
+    "price": 699,
+    "inflation_index": 1070.4
+  },
+  {
+    "unit": "iPhone 12",
+    "year": 2020,
+    "price": 799,
+    "inflation_index": 1070.4
+  },
+  {
+    "unit": "iPhone 12 Pro",
+    "year": 2020,
+    "price": 999,
+    "inflation_index": 1070.4
+  },
+  {
+    "unit": "iPhone 12 Pro Max",
+    "year": 2020,
+    "price": 1099,
+    "inflation_index": 1070.4
+  },
+  {
+    "unit": "iPhone 13 Mini",
+    "year": 2021,
+    "price": 699,
+    "inflation_index": 1035.5
+  },
+  {
+    "unit": "iPhone 13",
+    "year": 2021,
+    "price": 799,
+    "inflation_index": 1035.5
+  },
+  {
+    "unit": "iPhone 13 Pro",
+    "year": 2021,
+    "price": 999,
+    "inflation_index": 1035.5
+  },
+  {
+    "unit": "iPhone 13 Pro Max",
+    "year": 2021,
+    "price": 1099,
+    "inflation_index": 1035.5
+  }
+]

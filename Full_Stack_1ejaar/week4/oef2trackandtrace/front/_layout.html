@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Track and Trace - Overzicht</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style/trace.css">
+</head>
+
+<body>
+  <main class="c-track">
+    <h1 class="c-track__title">Track and Trace</h1>
+    <div class="c-track__cover"></div>
+    <section class="c-track__search">
+      <h2>Te zoeken pakket</h2>
+      <div class="c-row">
+        <label for="trace-nr" class="c-row__label">Nummer:</label>
+        <input class="c-row__info js-search-txt" type="text" name="trace-nr" id="trace-nr">
+        <input type="submit" class="c-row__btn js-search-btn" value="Zoek op">
+      </div>
+    </section>
+    <section class="c-track__infosender js-section-info-sender">
+      <h2>Verzender</h2>
+      <div class="c-row">
+        <div class="c-row__label">Naam:</div>
+        <div class="c-row__info js-sender-name">...............</div>
+      </div>
+      <div class="c-row">
+        <div class="c-row__label">Postcode:</div>
+        <div class="c-row__info js-sender-code">....</div>
+      </div>
+    </section>
+    <section class="c-track__trace js-section-trace">
+      <h2 class="c-track__title">Tracking</h2>
+      <div class="c-step js-step-drop-off">
+        <div class="c-step__info">Drop off</div>
+        <div class="c-step__symbol"><img src="image/gift.webp" width="100" alt="dropoff"></div>
+        <div class="c-step__datum js-step-drop-off-datum">2022-1-20</div>
+      </div>
+      <div class="c-step js-step-warehouse">
+        <div class="c-step__info">Warehouse</div>
+        <div class="c-step__symbol">
+          <img src="image/warehouse.webp" width="100" alt="warehouse">
+        </div>
+        <div class="c-step__datum js-step-warehouse-datum">2022-1-20</div>
+      </div>
+      <div class="c-step js-step-out-for-delivery">
+        <div class="c-step__info">Out For Delivery</div>
+        <div class="c-step__symbol">
+          <img src="image/shipped.webp" width="100" alt="out for delivery">
+        </div>
+        <div class="c-step__datum js-step-out-for-delivery-datum"></div>
+      </div>
+      <div class="c-step js-step-delivered">
+        <div class="c-step__info">Delivered</div>
+        <div class="c-step__symbol">
+          <img src="image/delivery.webp" width="100" alt="delivered">
+        </div>
+        <div class="c-step__datum js-step-delivered-datum"></div>
+      </div>
+    </section>
+  </main>
+</body>
+
+</html>

@@ -1,0 +1,121 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+$margin: 0.5rem;
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+h1,
+h2 {
+  padding: 0.5rem 0rem;
+  color: #333;
+  font-weight: normal;
+  margin: 0;
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+.c-track {
+  max-width: 50rem;
+  min-width: 40rem;
+  margin: auto;
+  border: solid 1px rgb(231, 8, 8);
+  font-family: 'Lato', sans-serif;
+
+  &__cover {
+    height: 12.5rem;
+    background-image: url('../image/background.webp');
+    background-size: cover;
+  }
+
+  &__search {
+    padding: 1rem;
+  }
+
+  &__infosender {
+    padding: 1rem;
+  }
+
+  &__add {
+    padding: 1rem;
+  }
+
+  &__trace {
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  &__title {
+    width: 100%;
+  }
+}
+
+.c-step {
+  width: calc(100% / 4 - 2 * $margin);
+  background-color: #eee;
+  display: flex;
+  flex-flow: column;
+  margin: $margin;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid 0.5rem #eee;
+  opacity: 0.2;
+
+  &--active {
+    border-bottom-color: rgb(231, 8, 8);
+  }
+
+  &--done {
+    opacity: 1;
+  }
+
+  &__datum {
+    font-size: 0.75em;
+    color: #333;
+  }
+  &__info {
+    color: rgb(231, 8, 8);
+    font-weight: bold;
+  }
+}
+
+.c-row {
+  display: flex;
+  flex-flow: row;
+  align-content: space-between;
+  align-items: baseline;
+  &__btn {
+    margin-left: 0.5rem;
+  }
+
+  &__info {
+    flex-grow: 1;
+  }
+
+  &__label {
+    font-weight: bold;
+    padding: 0.5rem 0rem;
+    flex-basis: 100px;
+    color: rgb(51, 51, 51);
+  }
+}
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/
+.u-hide {
+  display: none;
+}
+
+.u-extra-margin {
+  margin: 0.75rem 0rem;
+}
