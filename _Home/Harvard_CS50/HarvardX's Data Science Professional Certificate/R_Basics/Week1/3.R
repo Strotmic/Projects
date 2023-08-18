@@ -1,0 +1,12 @@
+log(1024,4)
+library(dslabs)
+data(movielens)
+str(movielens)
+class(movielens$genres)
+nlevels(movielens$genres)
+temp = c(35, 88, 42, 84, 81, 30)
+city = c("Beijing", "Lagos", "Paris", "Rio de Janeiro", "San Juan", "Toronto")
+x = c(31,4,15,92,65)
+rank(x)
+order(x)
+x[order(x)]
